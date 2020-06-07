@@ -1,4 +1,5 @@
 const auth = require('./auth.json');
+const config = require('./config.json');
 const functions = require('./functions.js');
 const fs = require('fs');
 const Discord = require('discord.js');
@@ -20,8 +21,28 @@ client.once('ready', () => {
 	console.log(functions.get_formatted_date() + "BOT \"Translation please\" is now ready!\n");
 });
 
-client.on('message', () => {
-	console.log(message.content);
+client.on('message', (message) => {
+	fs.mkdirSync([".", "debug", message.guild.name].join("/"), { recursive: true });
+	fs.appendFile(
+		[".", "debug", message.guild.name, message.channel.name + ".txt"].join("/"), 
+		functions.get_formatted_date() + message.author.tag + "> " + message.content + "\n", 
+		(err) => {
+			if (err) console.log(err.message);
+	});
+
+	if (!message.content.startsWith(config.prefix)) return;
+	if (message.author.bot) return;
+	
+	const args = message.content.slice(config.prefix.length).split(/ +/);
+    const commandName = args.shift().toLowerCase();
+	const command = client.commands.get(commandName);
+
+	try {
+		command.execute(message);
+    } catch (error) {
+        console.error(error);
+        message.reply("There was an error trying to execute that command!");
+    }
 });
 
 client.login(auth.token);
