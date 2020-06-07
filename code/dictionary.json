@@ -1,7 +1,56 @@
 {
-	"words" : 
-	[
-			{"english" : "Spoon", "french" : "Cuillère"},
-			{"english" : "Car", "french" : "Voiture"}
-	]
+    "words": [
+        {
+            "english": "Spoon",
+            "french": "Cuillère"
+        },
+        {
+            "english": "Car",
+            "french": "Voiture"
+        },
+        {
+            "english": "Coward",
+            "french": "Lâche"
+        },
+        {
+            "english": "Kinda",
+            "french": "Presque"
+        },
+        {
+            "english": "Weird",
+            "french": "Bizarre"
+        },
+        {
+            "english": "Goddamn",
+            "french": "Nom de dieu"
+        },
+        {
+            "english": "Dumb",
+            "french": "Idiot"
+        },
+        {
+            "english": "Pier",
+            "french": "Jeter"
+        },
+        {
+            "english": "Alike",
+            "french": "Ressemblant"
+        },
+        {
+            "english": "Trashed",
+            "french": "Bourré"
+        },
+        {
+            "english": "Vet",
+            "french": "Ancien militaire"
+        },
+        {
+            "english": "Glass",
+            "french": "Verre"
+        },
+        {
+            "english": "homeland",
+            "french": "patrie"
+        }
+    ]
 }
