@@ -1,4 +1,3 @@
-const config = require('../config.json');
 const fs = require('fs');
 
 const WORDS_BY_PAGE = 20;
@@ -6,7 +5,7 @@ const WORDS_BY_PAGE = 20;
 module.exports = {
     name: "dict",
     description: `Displays the reference dictionary, by pages of ${WORDS_BY_PAGE} words each.`,
-    usage: config.prefix + "dict [--page_number]",
+    usage: "dict [--page_number]",
     options: "\t--page_number: Integer of the desired page [default: 1].",
     execute(message) {
         const args = message.content.toLowerCase().split(/ +/);

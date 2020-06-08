@@ -106,7 +106,15 @@
         },
         {
             "english": "click",
-            "french": "clique"
+            "french": "clic"
+        },
+        {
+            "english": "delete",
+            "french": "supprimer"
+        },
+        {
+            "english": "add",
+            "french": "ajouter"
         }
     ]
 }

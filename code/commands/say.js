@@ -1,10 +1,9 @@
-const config = require('../config.json');
 const fs = require('fs');
 
 module.exports = {
     name: "say",
     description: "Repeat the given message.",
-    usage: config.prefix + "say [--text]",
+    usage: "say [--text]",
     options: "\t--text: Text to repeat.",
     execute(message) {
         var command = message.content.split(/ +/)[0];

@@ -1,10 +1,9 @@
-const config = require('../config.json');
 const fs = require('fs');
 
 module.exports = {
     name: "traduction",
     description: "Asks you to translate a english word in french.",
-    usage: config.prefix + "traduction",
+    usage: "traduction",
     options: "",
     execute(message) {
         const dictionary = require('../dictionary.json');

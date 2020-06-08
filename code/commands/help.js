@@ -1,12 +1,14 @@
-const config = require('../config.json');
+var config = require('../config.json');
 const fs = require('fs');
 
 module.exports = {
     name: "help",
     description: "List all available commands.",
-    usage: config.prefix + "help",
+    usage: "help",
     options: "",
     execute(message) {
+        config = require("../config.json");
+        
         let str = '';
         const commandFiles = fs
             .readdirSync("./commands")
@@ -15,7 +17,7 @@ module.exports = {
         for (const file of commandFiles) {
             const command = require(`./${file}`);
             if (command.options != "") {
-                str += `Name:\n\t${command.name}\nDescription:\n\t${command.description}\nUsage:\n\t${command.usage}\nOptions:\n${command.options}\n\n`;
+                str += `Name:\n\t${command.name}\nDescription:\n\t${command.description}\nUsage:\n\t${config.prefix}${command.usage}\nOptions:\n${command.options}\n\n`;
             }
             else {
                 str += `Name:\n\t${command.name}\nDescription:\n\t${command.description}\nUsage:\n\t${command.usage}\n\n`;
