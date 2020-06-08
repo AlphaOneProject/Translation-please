@@ -1,56 +1,60 @@
 {
     "words": [
         {
-            "english": "Spoon",
-            "french": "Cuillère"
+            "english": "spoon",
+            "french": "cuillère"
         },
         {
-            "english": "Car",
-            "french": "Voiture"
+            "english": "car",
+            "french": "voiture"
         },
         {
-            "english": "Coward",
-            "french": "Lâche"
+            "english": "coward",
+            "french": "lâche"
         },
         {
-            "english": "Kinda",
-            "french": "Presque"
+            "english": "kinda",
+            "french": "presque"
         },
         {
-            "english": "Weird",
-            "french": "Bizarre"
+            "english": "weird",
+            "french": "bizarre"
         },
         {
-            "english": "Goddamn",
-            "french": "Nom de dieu"
+            "english": "goddamn",
+            "french": "nom de dieu"
         },
         {
-            "english": "Dumb",
-            "french": "Idiot"
+            "english": "dumb",
+            "french": "idiot"
         },
         {
-            "english": "Pier",
-            "french": "Jeter"
+            "english": "pier",
+            "french": "jeter"
         },
         {
-            "english": "Alike",
-            "french": "Ressemblant"
+            "english": "alike",
+            "french": "ressemblant"
         },
         {
-            "english": "Trashed",
-            "french": "Bourré"
+            "english": "trashed",
+            "french": "bourré"
         },
         {
-            "english": "Vet",
-            "french": "Ancien militaire"
+            "english": "vet",
+            "french": "ancien militaire"
         },
         {
-            "english": "Glass",
-            "french": "Verre"
+            "english": "glass",
+            "french": "verre"
         },
         {
             "english": "homeland",
             "french": "patrie"
+        },
+        {
+            "english": "window",
+            "french": "fenêtre"
         }
     ]
 }

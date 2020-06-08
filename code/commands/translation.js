@@ -1,8 +1,11 @@
+const config = require('../config.json');
 const fs = require('fs');
 
 module.exports = {
     name: "translation",
     description: "Asks you to translate a french word in english.",
+    usage: config.prefix + "translation",
+    options: "",
     execute(message) {
         const dictionary = require('../dictionary.json');
         let selected_id = Math.floor(Math.random() * dictionary.words.length);

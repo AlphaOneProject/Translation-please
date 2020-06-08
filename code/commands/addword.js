@@ -1,10 +1,13 @@
+const config = require('../config.json');
 const fs = require('fs');
 
 module.exports = {
     name: "addword",
-    description: "With two parameters enable the user to add a new word both in english and in french.\t\tSyntax: %addword [english] [french]",
+    description: "With two parameters enable the user to add a new word both in english and in french.",
+    usage: config.prefix + "addword [--english] [--french]",
+    options: "\t--english: English version of the word.\n\t--french: French version of the word.",
     execute(message) {
-        const args = message.content.split(/ +/);
+        const args = message.content.toLowerCase().split(/ +/);
 
         try {
             var dictionary = require('../dictionary.json');
