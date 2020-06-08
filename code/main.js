@@ -30,19 +30,19 @@ client.on("message", (message) => {
 			if (err) console.log(err.message);
 	});
 
-	if (fs.existsSync("./stats/" + message.author.id + ".txt")) {
-		let valid_word = fs.readFileSync("./stats/" + message.author.id + ".txt", 'utf8').toLowerCase();
+	if (fs.existsSync("./temp/" + message.author.id + ".txt")) {
+		let valid_word = fs.readFileSync("./temp/" + message.author.id + ".txt", 'utf8').toLowerCase();
 		if (message.content.toLowerCase() == valid_word) {
 			message.reply("Congratulations! You found the right word!");
 		}
 		else {
-			message.reply("You failed... the word was " + valid_word + ".");
+			message.reply("You failed... the word was `" + valid_word + "`.");
 		}
-		fs.unlinkSync("./stats/" + message.author.id + ".txt");
+		fs.unlinkSync("./temp/" + message.author.id + ".txt");
+		return;
 	}
 
 	if (!message.content.startsWith(config.prefix)) return;
-	if (message.author.bot) return;
 	
 	const args = message.content.slice(config.prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
@@ -51,7 +51,6 @@ client.on("message", (message) => {
 	try {
 		command.execute(message);
     } catch (error) {
-        console.error(error);
         message.reply(`There was an error trying to execute that command!\nType "${config.prefix}help" to list existing commands.`);
     }
 });

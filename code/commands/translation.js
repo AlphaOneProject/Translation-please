@@ -11,10 +11,10 @@ module.exports = {
         let selected_id = Math.floor(Math.random() * dictionary.words.length);
         let word = dictionary.words[selected_id];
 
-        message.channel.send("Translate " + word.french + " in english!");
+        message.channel.send("Translate `" + word.french + "` in english!");
 
         fs.writeFile(
-            [".", "stats", message.author.id + ".txt"].join("/"), 
+            [".", "temp", message.author.id + ".txt"].join("/"), 
             word.english, 
             (err) => {
                 if (err) console.log(err.message);

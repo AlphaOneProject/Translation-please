@@ -22,10 +22,11 @@ module.exports = {
             return;
         }
 
-        var str = `\t\t\t**[Page ${page} / ${page_number}]**\n`;
+        var str = `\t\t\t**[Page ${page} / ${page_number}]**\n\``;
         for (let i = (page - 1) * 10; i < dictionary.words.length && i < page * 10; i++) {
             str += `[${i + 1}]\t\t\t${dictionary.words[i].english}\t\t\t${dictionary.words[i].french}\n`;
         }
+        str += "`";
         message.channel.send(str);
     },
 };
