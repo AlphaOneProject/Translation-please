@@ -9,5 +9,6 @@ module.exports = {
     execute(message) {
         var command = message.content.split(/ +/)[0];
         message.channel.send(message.content.slice(command.length));
+        message.delete();
     },
 };

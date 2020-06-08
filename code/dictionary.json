@@ -60,6 +60,53 @@
             "english": "rabbit",
             "french": "lapin"
         },
-        {}
+        {
+            "english": "cat",
+            "french": "chat"
+        },
+        {
+            "english": "cheese",
+            "french": "fromage"
+        },
+        {
+            "english": "word",
+            "french": "mot"
+        },
+        {
+            "english": "database",
+            "french": "base"
+        },
+        {
+            "english": "computer",
+            "french": "ordinateur"
+        },
+        {
+            "english": "mouse",
+            "french": "souris"
+        },
+        {
+            "english": "keyboard",
+            "french": "clavier"
+        },
+        {
+            "english": "screen",
+            "french": "écran"
+        },
+        {
+            "english": "light",
+            "french": "lumière"
+        },
+        {
+            "english": "dog",
+            "french": "chien"
+        },
+        {
+            "english": "wheel",
+            "french": "molette"
+        },
+        {
+            "english": "click",
+            "french": "clique"
+        }
     ]
 }

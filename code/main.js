@@ -5,6 +5,8 @@ const fs = require('fs');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
+const DEBUG = false;
+
 console.log(functions.get_formatted_date() + "Starting...");
 
 const commandFiles = fs
@@ -22,6 +24,7 @@ client.once("ready", () => {
 });
 
 client.on("message", (message) => {
+	
 	fs.mkdirSync([".", "debug", message.guild.name].join("/"), { recursive: true });
 	fs.appendFile(
 		[".", "debug", message.guild.name, message.channel.name + ".txt"].join("/"), 
@@ -29,6 +32,8 @@ client.on("message", (message) => {
 		(err) => {
 			if (err) console.log(err.message);
 	});
+	
+	if (message.author.bot) return;
 
 	if (fs.existsSync("./temp/" + message.author.id + ".txt")) {
 		let valid_word = fs.readFileSync("./temp/" + message.author.id + ".txt", 'utf8').toLowerCase();
@@ -51,6 +56,7 @@ client.on("message", (message) => {
 	try {
 		command.execute(message);
     } catch (error) {
+		if (DEBUG) console.log(error);
         message.reply(`There was an error trying to execute that command!\nType "${config.prefix}help" to list existing commands.`);
     }
 });
