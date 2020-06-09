@@ -1,8 +1,8 @@
-const auth = require('./auth.json');
-const config = require('./config.json');
-const functions = require('./functions.js');
-const fs = require('fs');
-const Discord = require('discord.js');
+const auth = require("./auth.json");
+const config = require("./config.json");
+const functions = require("./functions.js");
+const fs = require("fs");
+const Discord = require("discord.js");
 const client = new Discord.Client();
 
 const DEBUG = false;
@@ -21,6 +21,37 @@ for (const file of commandFiles) {
 
 client.once("ready", () => {
 	console.log(functions.get_formatted_date() + "BOT \"Translation please\" is now ready!\n");
+
+	// DICTIONARIES CONVERSION SECTION
+	/* 
+	const dictionaries = fs
+		.readdirSync("./raw_dictionaries")
+		.filter((file) => file.endsWith(".txt"));
+
+	for (const file of dictionaries) {
+		var data = fs.readFileSync("./raw_dictionaries/" + file, {encoding:"utf8", flag:"r"});
+		
+		var words = [];
+		for (var line of data.split("\r\n")) {
+			var dictionary = {};
+			line = line.toLowerCase();
+			dictionary["english"] = line.split("\t")[0];
+			dictionary["french"] = line.split("\t")[1];
+			words.push(dictionary);
+		}
+
+		dictionary = {};
+		dictionary["words"] = words;
+		fs.writeFileSync(
+			`./dictionaries/${file.split(".")[0]}.json`, 
+			JSON.stringify(dictionary, null, 4), 
+			(err) => {
+				if (err) console.log(err.message);
+			}
+		);
+	}
+	/* */
+	// DICTIONARIES CONVERSION SECTION
 });
 
 client.on("message", (message) => {

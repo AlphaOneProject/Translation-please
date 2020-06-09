@@ -1,5 +1,5 @@
-var config = require('../config.json');
-const fs = require('fs');
+var config = require("../config.json");
+const fs = require("fs");
 
 module.exports = {
     name: "prefix",
@@ -8,9 +8,12 @@ module.exports = {
     options: "\t--new_prefix: New prefix to all commands of this bot.",
     execute(message) {
         config = require("../config.json");
-        const args = message.content.split(/ +/);
-
+        
         try {
+            const args = message.content.split(/ +/);
+
+            if (args[1] == undefined) throw Error;
+
             config.prefix = args[1];
 
             fs.writeFileSync(
@@ -23,8 +26,7 @@ module.exports = {
             message.channel.send(`Prefix updated to \`${args[1]}\`!`);
         }
         catch(err) {
-            console.log(err);
-            message.channel.reply("A problem occurred while saving the new prefix.");
+            message.reply("A problem occurred while saving the new prefix.");
         }
     },
 };
