@@ -22,6 +22,8 @@ for (const file of commandFiles) {
 client.once("ready", () => {
 	console.log(functions.get_formatted_date() + "BOT \"Translation please\" is now ready!\n");
 
+	client.user.setActivity(`Type '${config.prefix}help' :D`);
+
 	// DICTIONARIES CONVERSION SECTION
 	/* 
 	const dictionaries = fs
@@ -66,14 +68,20 @@ client.on("message", (message) => {
 	
 	if (message.author.bot) return;
 
+	// Response handling.
 	if (fs.existsSync("./temp/" + message.author.id + ".txt")) {
-		let valid_word = fs.readFileSync("./temp/" + message.author.id + ".txt", 'utf8').toLowerCase();
-		if (message.content.toLowerCase() == valid_word) {
-			message.reply("Congratulations! You found the right word!");
+
+		let valid_words = fs.readFileSync("./temp/" + message.author.id + ".txt", 'utf8').toLowerCase();
+		for (let valid_word of valid_words.split("/")) {
+			if (message.content.toLowerCase() == valid_word) {
+				
+				message.reply(`Congratulations! You found the right word, \`${valid_words}\` !`);
+				fs.unlinkSync("./temp/" + message.author.id + ".txt");
+				return;
+			}
 		}
-		else {
-			message.reply("You failed... the word was `" + valid_word + "`.");
-		}
+		
+		message.reply("You failed... the word was `" + valid_words + "`.");
 		fs.unlinkSync("./temp/" + message.author.id + ".txt");
 		return;
 	}
@@ -85,7 +93,12 @@ client.on("message", (message) => {
 	const command = client.commands.get(commandName);
 
 	try {
-		command.execute(message);
+		if (commandName == "prefix") {
+			command.execute(client, message);
+		}
+		else {
+			command.execute(message);
+		}
     } catch (error) {
 		if (DEBUG) console.log(error);
         message.reply(`There was an error trying to execute that command!\nType "${config.prefix}help" to list existing commands.`);
