@@ -36,7 +36,10 @@ module.exports = {
             line += `${percentage}%`;
             for (let i = line.length; i < 34; i++) {line += " ";}
 
-            line += `(${t_stats.right} / ${t_stats.right + t_stats.wrong})   ${dictionary_name}\`\n`;
+            line += `(${t_stats.right} / ${t_stats.right + t_stats.wrong})   `;
+            for (let i = line.length; i < 48; i++) {line += " ";}
+
+            line += `${dictionary_name}\`\n`;
 
             str += line;
         }
