@@ -69,19 +69,46 @@ client.on("message", (message) => {
 	if (message.author.bot) return;
 
 	// Response handling.
-	if (fs.existsSync("./temp/" + message.author.id + ".txt")) {
+	if (fs.existsSync(`./temp/${message.author.id}.txt`)) {
 
-		let valid_words = fs.readFileSync("./temp/" + message.author.id + ".txt", 'utf8').toLowerCase();
+		var user_stats = {};
+		if (fs.existsSync(`./stats/${message.author.id}.json`)) {
+			user_stats = require(`./stats/${message.author.id}.json`);
+		}
+		const dictionaries = fs
+			.readdirSync("./dictionaries")
+			.filter((file) => file.endsWith(".json"));
+
+		for (let dictionary_name of dictionaries) {
+			dictionary_name = dictionary_name.split(".")[0];
+			if (user_stats[dictionary_name] == undefined) user_stats[dictionary_name] = {"right": 0, "wrong": 0};
+		}
+
+		let file_contents = fs.readFileSync(`./temp/${message.author.id}.txt`, 'utf8').split("\r\n");
+		let valid_words = file_contents[0].toLowerCase();
+		let isValid = false;
 		for (let valid_word of valid_words.split("/")) {
 			if (message.content.toLowerCase() == valid_word) {
-				
-				message.reply(`Congratulations! You found the right word, \`${valid_words}\` !`);
-				fs.unlinkSync("./temp/" + message.author.id + ".txt");
-				return;
+				isValid = true;
 			}
 		}
+
+		if(isValid) {
+			message.reply(`Congratulations! You found the right word, \`${valid_words}\` !`);
+			user_stats[file_contents[1]].right += 1;
+		}
+		else {
+			message.reply("You failed... the word was `" + valid_words + "`.");
+			user_stats[file_contents[1]].wrong += 1;
+		}
 		
-		message.reply("You failed... the word was `" + valid_words + "`.");
+		fs.writeFileSync(
+			`./stats/${message.author.id}.json`, 
+			JSON.stringify(user_stats, null, 4), 
+			(err) => {
+				if (err) console.log(err.message);
+			}
+		);
 		fs.unlinkSync("./temp/" + message.author.id + ".txt");
 		return;
 	}

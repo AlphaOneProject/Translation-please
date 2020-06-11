@@ -37,7 +37,7 @@ module.exports = {
 
         fs.writeFile(
             [".", "temp", message.author.id + ".txt"].join("/"), 
-            word.english, 
+            `${word.english}\r\n${dictionary_name}`, 
             (err) => {
                 if (err) console.log(err.message);
             }

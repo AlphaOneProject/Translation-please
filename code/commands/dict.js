@@ -56,7 +56,7 @@ module.exports = {
             for (let j = line.length; j < 15; j++) {
                 line += " ";
             }
-            line += dictionary.words[i].english;
+            line += dictionary.words[i].english + "   ";
             for (let j = line.length; j < 40; j++) {
                 line += " ";
             }
