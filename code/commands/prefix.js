@@ -6,7 +6,7 @@ module.exports = {
     description: "Change the prefix used for all commands.",
     usage: "prefix [--new_prefix]",
     options: "\t--new_prefix: New prefix to all commands of this bot.",
-    execute(client, message) {
+    execute(message) {
         config = require("../config.json");
         
         try {
@@ -23,8 +23,6 @@ module.exports = {
                     if (err) console.log(err.message);
                 }
             );
-            
-            client.user.setActivity(`Type '${config.prefix}help' :D`);
 
             message.channel.send(`Prefix updated to \`${args[1]}\`!`);
         }

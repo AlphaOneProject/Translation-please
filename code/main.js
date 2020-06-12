@@ -6,6 +6,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 const DEBUG = false;
+const DELETE_COMMANDS = false;
 
 console.log(functions.get_formatted_date() + "Starting...");
 
@@ -22,7 +23,7 @@ for (const file of commandFiles) {
 client.once("ready", () => {
 	console.log(functions.get_formatted_date() + "BOT \"Translation please\" is now ready!\n");
 
-	client.user.setActivity(`Type '${config.prefix}help' :D`);
+	client.user.setActivity(`Type '%help' :D`);
 
 	// DICTIONARIES CONVERSION SECTION
 	/* 
@@ -113,22 +114,19 @@ client.on("message", (message) => {
 		return;
 	}
 
-	if (!message.content.startsWith(config.prefix)) return;
+	if (!message.content.startsWith(config.prefix) && !message.content.startsWith("%help")) return;
 	
 	const args = message.content.slice(config.prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
-	const command = client.commands.get(commandName);
+	var command = client.commands.get(commandName);
+	if (message.content.startsWith("%help")) command = client.commands.get("help");
 
 	try {
-		if (commandName == "prefix") {
-			command.execute(client, message);
-		}
-		else {
-			command.execute(message);
-		}
+		command.execute(message);
+		if (DELETE_COMMANDS) message.delete();
     } catch (error) {
 		if (DEBUG) console.log(error);
-        message.reply(`There was an error trying to execute that command!\nType "${config.prefix}help" to list existing commands.`);
+        message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
     }
 });
 
