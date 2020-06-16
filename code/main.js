@@ -5,7 +5,7 @@ const fs = require("fs");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const DEBUG = false;
+const DEBUG = true;
 const DELETE_COMMANDS = false;
 
 console.log(functions.get_formatted_date() + "Starting...");
