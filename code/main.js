@@ -4,9 +4,12 @@ const functions = require("./functions.js");
 const fs = require("fs");
 const Discord = require("discord.js");
 const client = new Discord.Client();
+var spawn = require("child_process").spawn;
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-const DEBUG = true;
+const DEBUG = false;
 const DELETE_COMMANDS = false;
+const START_DATE = Date.now();
 
 console.log(functions.get_formatted_date() + "Starting...");
 
@@ -38,8 +41,8 @@ client.once("ready", () => {
 		for (var line of data.split("\r\n")) {
 			var dictionary = {};
 			line = line.toLowerCase();
-			dictionary["english"] = line.split("\t")[0];
-			dictionary["french"] = line.split("\t")[1];
+			dictionary["french"] = line.split("\t")[0]; // To set depending on the raw order.
+			dictionary["english"] = line.split("\t")[1];
 			words.push(dictionary);
 		}
 
@@ -57,8 +60,7 @@ client.once("ready", () => {
 	// DICTIONARIES CONVERSION SECTION
 });
 
-client.on("message", (message) => {
-	
+client.on("message", async (message) => {
 	fs.mkdirSync([".", "debug", message.guild.name].join("/"), { recursive: true });
 	fs.appendFile(
 		[".", "debug", message.guild.name, message.channel.name + ".txt"].join("/"), 
@@ -126,8 +128,18 @@ client.on("message", (message) => {
 		if (DELETE_COMMANDS) message.delete();
     } catch (error) {
 		if (DEBUG) console.log(error);
-        message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
+        var p = message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
     }
+
+	if (START_DATE + (config.restart_delay * 60 * 1000) < Date.now()) {
+		var child = spawn(__dirname + '/start.bat', [], {
+			detached: true,
+			stdio: [ 'ignore', 'ignore', 'ignore' ]
+		});
+		child.unref();
+		await p;
+		stop();
+	}
 });
 
 client.login(auth.token);

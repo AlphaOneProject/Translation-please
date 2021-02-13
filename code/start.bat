@@ -1,2 +1,2 @@
 @echo off
-node main.js
+node --experimental-repl-await main.js

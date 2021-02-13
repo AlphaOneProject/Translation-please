@@ -6,3 +6,5 @@ code/stats/
 code/temp/
 code/raw_dictionaries/
 code/dictionaries/
+
+*.code-workspace
