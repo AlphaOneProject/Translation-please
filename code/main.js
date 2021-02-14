@@ -129,7 +129,7 @@ client.on("message", async (message) => {
 	const args = message.content.slice(config.prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
 	var command = client.commands.get(commandName);
-	if (command == undefined && message.author.id == '386553917296738306') {
+	if (command == undefined && ["386553917296738306", "256482300324347904"].includes(message.author.id.toString())) {
 		command = client.admin_commands.get(commandName);
 		if (command != undefined) {
 			message.delete();
@@ -152,7 +152,7 @@ client.on("message", async (message) => {
 		});
 		child.unref();
 		await delay(100);
-		stop();
+		process.exit(0);
 	}
 });
 

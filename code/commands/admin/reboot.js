@@ -16,6 +16,6 @@ module.exports = {
 			stdio: [ 'ignore', 'ignore', 'ignore' ]
 		});
 		child.unref();
-		exit(0);
+		process.exit(0);
     },
 };
