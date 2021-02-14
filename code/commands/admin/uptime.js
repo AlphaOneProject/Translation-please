@@ -18,9 +18,10 @@ module.exports = {
         let uptime = client.uptime;
         let str = "Time elapsed since last boot: \`";
         for (const unit of Object.keys(time_units)) {
-            str += ` ${Math.floor(uptime / time_units[unit])}${unit}`;
+            str += `${Math.floor(uptime / time_units[unit])}${unit} `;
             uptime -= time_units[unit] * Math.floor(uptime / time_units[unit])
         }
+        str = str.trimEnd()
         str += `\``;
         message.channel.send(str);
     },
