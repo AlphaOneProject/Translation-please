@@ -9,7 +9,6 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 
 const DEBUG = false;
 const DELETE_COMMANDS = true;
-const START_DATE = Date.now();
 
 console.log(functions.get_formatted_date() + "Starting...");
 
@@ -131,10 +130,10 @@ client.on("message", async (message) => {
 	var command = client.commands.get(commandName);
 	if (command == undefined && ["386553917296738306", "256482300324347904"].includes(message.author.id.toString())) {
 		command = client.admin_commands.get(commandName);
-		if (commandName == "reboot") {
+		if (command != undefined) {
 			if (DELETE_COMMANDS) message.delete();
-			await delay(100);
-			command.execute(message);
+			if (commandName == "reboot") await delay(100);
+			command.execute(client, message);
 			return;
 		}
 	}
@@ -146,7 +145,7 @@ client.on("message", async (message) => {
         message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
     }
 
-	if (START_DATE + (config.restart_delay * 60 * 1000) < Date.now()) {
+	if ((config.restart_delay * 60 * 1000) < client.uptime) {
 		var child = spawn(__dirname + '/start.bat', [], {
 			detached: true,
 			stdio: [ 'ignore', 'ignore', 'ignore' ]

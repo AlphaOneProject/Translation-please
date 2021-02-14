@@ -1,12 +1,13 @@
 var config = require("../../config.json");
 const fs = require("fs");
+const Discord = require("discord.js");
 
 module.exports = {
     name: "eval",
     description: "Launch a command as a Node JS interface.",
     usage: "eval [--node_expression]",
     options: ["--node_expression: Any Node JS expression interpretable."],
-    execute(message) {
+    execute(client, message) {        
         try {
             eval(message.content.slice(6));
         } catch (error) {
