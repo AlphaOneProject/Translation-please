@@ -8,7 +8,7 @@ var spawn = require("child_process").spawn;
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 
 const DEBUG = false;
-const DELETE_COMMANDS = false;
+const DELETE_COMMANDS = true;
 const START_DATE = Date.now();
 
 console.log(functions.get_formatted_date() + "Starting...");
@@ -131,15 +131,16 @@ client.on("message", async (message) => {
 	var command = client.commands.get(commandName);
 	if (command == undefined && ["386553917296738306", "256482300324347904"].includes(message.author.id.toString())) {
 		command = client.admin_commands.get(commandName);
-		if (command != undefined) {
-			message.delete();
+		if (commandName == "reboot") {
+			if (DELETE_COMMANDS) message.delete();
+			await delay(100);
 			command.execute(message);
 			return;
 		}
 	}
 	try {
-		command.execute(message);
 		if (DELETE_COMMANDS) message.delete();
+		command.execute(message);
     } catch (error) {
 		if (DEBUG) console.log(error);
         message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
