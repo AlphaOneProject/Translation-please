@@ -13,14 +13,22 @@ const START_DATE = Date.now();
 
 console.log(functions.get_formatted_date() + "Starting...");
 
+client.commands = new Discord.Collection();
 const commandFiles = fs
     .readdirSync("./commands")
     .filter((file) => file.endsWith(".js"));
-
-client.commands = new Discord.Collection();
 for (const file of commandFiles) {
-    const command = require(`./commands/${file}`);
+	const command = require(`./commands/${file}`);
 	client.commands.set(command.name, command);
+}
+
+client.admin_commands = new Discord.Collection();
+const adminCommandFiles = fs
+    .readdirSync("./commands/admin")
+    .filter((file) => file.endsWith(".js"));
+for (const file of adminCommandFiles) {
+    const command = require(`./commands/admin/${file}`);
+	client.admin_commands.set(command.name, command);
 }
 
 client.once("ready", () => {
@@ -121,8 +129,14 @@ client.on("message", async (message) => {
 	const args = message.content.slice(config.prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
 	var command = client.commands.get(commandName);
-	if (message.content.startsWith("%help")) command = client.commands.get("help");
-
+	if (command == undefined && message.author.id == '386553917296738306') {
+		command = client.admin_commands.get(commandName);
+		if (command != undefined) {
+			message.delete();
+			command.execute(message);
+			return;
+		}
+	}
 	try {
 		command.execute(message);
 		if (DELETE_COMMANDS) message.delete();

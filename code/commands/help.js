@@ -18,7 +18,7 @@ module.exports = {
             for (const file of commandFiles) {
                 const command = require(`./${file}`);
                 str += `**${command.name}:**\t${command.description}\n\t\`${config.prefix}${command.usage}\`\n`;
-                if (command.options != "") for (const option of command.options) str += `\t${option}\n`;
+                if (command.options.length > 0) for (const option of command.options) str += `\t${option}\n`;
             }
             message.channel.send(str);
         }
@@ -30,9 +30,8 @@ module.exports = {
             const command = require(`./${args[1]}`);
             let str = `**================= [ ${args[1].toUpperCase()} ] =================**\n`;
             str += `${command.description}\n\`${config.prefix}${command.usage}\`\n`;
-            if (command.options != "") for (const option of command.options) str += `${option}\n`;
+            if (command.options.length > 0) for (const option of command.options) str += `${option}\n`;
             message.channel.send(str);
         }
-        
     },
 };
