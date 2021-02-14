@@ -1,4 +1,7 @@
 {
     "prefix": "%",
-    "restart_delay": 360
+    "restart_delay": {
+        "value": 6,
+        "unit": "h"
+    }
 }

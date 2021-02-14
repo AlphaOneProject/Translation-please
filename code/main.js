@@ -10,6 +10,14 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 const DEBUG = false;
 const DELETE_COMMANDS = true;
 
+const time_units = {
+	"d": (24 * 60 * 60 * 1000),
+	"h": (60 * 60 * 1000),
+	"m": (60 * 1000),
+	"s": 1000,
+	"ms": 1
+}
+
 console.log(functions.get_formatted_date() + "Starting...");
 
 client.commands = new Discord.Collection();
@@ -145,7 +153,7 @@ client.on("message", async (message) => {
         message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
     }
 
-	if ((config.restart_delay * 60 * 1000) < client.uptime) {
+	if ((config.restart_delay.value * time_units[config.restart_delay.unit]) < client.uptime) {
 		var child = spawn(__dirname + '/start.bat', [], {
 			detached: true,
 			stdio: [ 'ignore', 'ignore', 'ignore' ]
