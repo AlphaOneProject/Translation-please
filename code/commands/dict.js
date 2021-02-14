@@ -7,9 +7,9 @@ module.exports = {
     name: "dict",
     description: `Displays the reference dictionary, by pages of ${WORDS_BY_PAGE} words each.`,
     usage: "dict [--dictionary_name] [--page_number]",
-    options: 
-        "\t--dictionary_name: Name of the dictionary to display, use `list` in order to display available dictionaries [default: `list`].\n" +
-        "\t--page_number: Integer of the desired page [default: `1`].",
+    options: [
+        "--dictionary_name: Name of the dictionary to display, use `list` in order to display available dictionaries [default: `list`].",
+        "--page_number: Integer of the desired page [default: `1`]."],
     execute(message) {
         config = require("../config.json");
 

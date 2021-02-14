@@ -128,7 +128,7 @@ client.on("message", async (message) => {
 		if (DELETE_COMMANDS) message.delete();
     } catch (error) {
 		if (DEBUG) console.log(error);
-        var p = message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
+        message.reply(`There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`);
     }
 
 	if (START_DATE + (config.restart_delay * 60 * 1000) < Date.now()) {
@@ -137,7 +137,7 @@ client.on("message", async (message) => {
 			stdio: [ 'ignore', 'ignore', 'ignore' ]
 		});
 		child.unref();
-		await p;
+		await delay(100);
 		stop();
 	}
 });

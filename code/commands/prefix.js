@@ -5,7 +5,7 @@ module.exports = {
     name: "prefix",
     description: "Change the prefix used for all commands.",
     usage: "prefix [--new_prefix]",
-    options: "\t--new_prefix: New prefix to all commands of this bot.",
+    options: ["--new_prefix: New prefix to all commands of this bot."],
     execute(message) {
         config = require("../config.json");
         

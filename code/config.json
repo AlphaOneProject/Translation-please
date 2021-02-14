@@ -1,4 +1,4 @@
 {
     "prefix": "%",
-    "restart_delay": 60
+    "restart_delay": 1
 }

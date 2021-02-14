@@ -4,7 +4,7 @@ module.exports = {
     name: "profile",
     description: "Display the choosen user's statistics.",
     usage: "profile [--username]",
-    options: "\t--username: Name of the user which you want to display the profile (he must be on this server!) [default: yourself].",
+    options: ["--username: Name of the user which you want to display the profile (he must be on this server!) [default: yourself]."],
     execute(message) {
 
         const args = message.content.toLowerCase().split(/ +/);

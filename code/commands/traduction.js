@@ -5,8 +5,7 @@ module.exports = {
     name: "traduction",
     description: "Asks you to translate a english word in french.",
     usage: "traduction [--dictionary_name]",
-    options: 
-        "\t--dictionary_name: Name of the dictionary from which you wish to pick the word from [default: random dictionary].",
+    options: ["--dictionary_name: Name of the dictionary from which you wish to pick the word from [default: random dictionary]."],
     execute(message) {
         config = require("../config.json");
 
