@@ -38,6 +38,10 @@ for (const file of adminCommandFiles) {
 	client.admin_commands.set(command.name, command);
 }
 
+setInterval(() => {
+	client.user.setActivity(`Type '%help' :D`, {type: "PLAYING"});
+}, time_units["h"]);
+
 client.once("ready", () => {
 	console.log(functions.get_formatted_date() + "BOT \"Translation please\" is now ready!\n");
 
@@ -76,6 +80,7 @@ client.once("ready", () => {
 });
 
 client.on("message", async (message) => {
+	if (message.guild == null) return;
 	fs.mkdirSync([".", "debug", message.guild.name].join("/"), { recursive: true });
 	fs.appendFile(
 		[".", "debug", message.guild.name, message.channel.name + ".txt"].join("/"), 
@@ -141,7 +146,7 @@ client.on("message", async (message) => {
 		if (command != undefined) {
 			if (DELETE_COMMANDS) message.delete();
 			if (commandName == "reboot") await delay(100);
-			command.execute(client, message);
+			command.execute(message);
 			return;
 		}
 	}

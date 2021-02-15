@@ -7,7 +7,7 @@ module.exports = {
     description: "Reboot the bot.",
     usage: "reboot",
     options: [],
-    execute(client, message) {
+    execute(message) {
         let local_path = __dirname.split('\\')
         let source_path = ""
         for (let i = 0; i < local_path.length - 2; i++) source_path += local_path[i] + '/'
