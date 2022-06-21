@@ -160,7 +160,7 @@ client.on("message", async (message) => {
     var command = client.commands.get(commandName);
     if (
         command == undefined &&
-        ["386553917296738306", "256482300324347904"].includes(
+        ["386553917296738306"].includes(
             message.author.id.toString()
         )
     ) {
