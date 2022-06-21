@@ -3,9 +3,7 @@ const config = require("./config.json");
 const functions = require("./functions.js");
 const fs = require("fs");
 const Discord = require("discord.js");
-const client = new Discord.Client();
-var spawn = require("child_process").spawn;
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 const DEBUG = false;
 const DELETE_COMMANDS = true;
@@ -169,7 +167,6 @@ client.on("message", async (message) => {
         command = client.admin_commands.get(commandName);
         if (command != undefined) {
             if (DELETE_COMMANDS) message.delete();
-            if (commandName == "reboot") await delay(100);
             command.execute(message);
             return;
         }
@@ -182,19 +179,6 @@ client.on("message", async (message) => {
         message.reply(
             `There was an error trying to execute that command!\nType \`${config.prefix}help\` to list existing commands.`
         );
-    }
-
-    if (
-        config.restart_delay.value * time_units[config.restart_delay.unit] <
-        client.uptime
-    ) {
-        var child = spawn(__dirname + "/start.bat", [], {
-            detached: true,
-            stdio: ["ignore", "ignore", "ignore"],
-        });
-        child.unref();
-        await delay(100);
-        process.exit(0);
     }
 });
 
