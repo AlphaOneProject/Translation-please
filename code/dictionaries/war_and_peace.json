@@ -1,0 +1,2524 @@
+{
+    "words": [
+        {
+            "english": "a barrage",
+            "french": "un barrage"
+        },
+        {
+            "english": "a barricade",
+            "french": "une barricade"
+        },
+        {
+            "english": "a battalion",
+            "french": "un bataillon"
+        },
+        {
+            "english": "a battle",
+            "french": "une bataille"
+        },
+        {
+            "english": "a battlefield",
+            "french": "un champ de bataille"
+        },
+        {
+            "english": "a battleship",
+            "french": "un cuirassé"
+        },
+        {
+            "english": "a bayonet",
+            "french": "une baïonnette"
+        },
+        {
+            "english": "a belligerent",
+            "french": "un belligérant"
+        },
+        {
+            "english": "a biological weapon",
+            "french": "une arme biologique"
+        },
+        {
+            "english": "a blockade",
+            "french": "un blocus"
+        },
+        {
+            "english": "a bomb",
+            "french": "une bombe"
+        },
+        {
+            "english": "a bombardment",
+            "french": "un bombardement"
+        },
+        {
+            "english": "a brigade",
+            "french": "une brigade"
+        },
+        {
+            "english": "a bullet",
+            "french": "une balle"
+        },
+        {
+            "english": "a bunker",
+            "french": "un bunker"
+        },
+        {
+            "english": "a cadaver/a corpse",
+            "french": "un cadavre"
+        },
+        {
+            "english": "a campaign",
+            "french": "une campagne"
+        },
+        {
+            "english": "a cannon",
+            "french": "un canon"
+        },
+        {
+            "english": "a carbine",
+            "french": "une carabine"
+        },
+        {
+            "english": "a carnage",
+            "french": "un carnage"
+        },
+        {
+            "english": "a carrier",
+            "french": "un transporteur"
+        },
+        {
+            "english": "a casualty",
+            "french": "une victime"
+        },
+        {
+            "english": "a cataclysm",
+            "french": "un cataclysme"
+        },
+        {
+            "english": "a catapult",
+            "french": "une catapulte"
+        },
+        {
+            "english": "a catastrophe/a disaster",
+            "french": "une catastrophe"
+        },
+        {
+            "english": "a ceasefire",
+            "french": "un cessez-le-feu/un cessez le feu"
+        },
+        {
+            "english": "a charge",
+            "french": "une charge"
+        },
+        {
+            "english": "a checkpoint",
+            "french": "un point de contrôle/un poste de contrôle"
+        },
+        {
+            "english": "a chemical warfare",
+            "french": "une guerre chimique"
+        },
+        {
+            "english": "a chemical weapon",
+            "french": "une arme chimique"
+        },
+        {
+            "english": "a chief",
+            "french": "un chef"
+        },
+        {
+            "english": "a chopper/a helicopter",
+            "french": "un hélicoptère"
+        },
+        {
+            "english": "a civil war",
+            "french": "une guerre civile"
+        },
+        {
+            "english": "a civilian",
+            "french": "un civil"
+        },
+        {
+            "english": "a clandestine",
+            "french": "un clandestin"
+        },
+        {
+            "english": "a coalition",
+            "french": "une coalition"
+        },
+        {
+            "english": "a combat",
+            "french": "un combat"
+        },
+        {
+            "english": "a commando",
+            "french": "un commando"
+        },
+        {
+            "english": "a conflagration",
+            "french": "une conflagration"
+        },
+        {
+            "english": "a conflict",
+            "french": "un conflit"
+        },
+        {
+            "english": "a conflict zone",
+            "french": "une zone de conflit"
+        },
+        {
+            "english": "a confrontation",
+            "french": "un affrontement"
+        },
+        {
+            "english": "a confrontation",
+            "french": "une confrontation"
+        },
+        {
+            "english": "a confusion",
+            "french": "une confusion"
+        },
+        {
+            "english": "a conquest",
+            "french": "une conquête"
+        },
+        {
+            "english": "a conspiracy",
+            "french": "une conspiration"
+        },
+        {
+            "english": "a convoy",
+            "french": "un convoi"
+        },
+        {
+            "english": "a counteroffensive",
+            "french": "une contre-offensive"
+        },
+        {
+            "english": "a crisis",
+            "french": "une crise"
+        },
+        {
+            "english": "a crusade",
+            "french": "une croisade"
+        },
+        {
+            "english": "a curfew",
+            "french": "un couvre-feu"
+        },
+        {
+            "english": "a danger",
+            "french": "un danger"
+        },
+        {
+            "english": "a deadlock",
+            "french": "une impasse"
+        },
+        {
+            "english": "a debacle",
+            "french": "une débâcle"
+        },
+        {
+            "english": "a decline",
+            "french": "un refus"
+        },
+        {
+            "english": "a defeat",
+            "french": "une défaite"
+        },
+        {
+            "english": "a despot",
+            "french": "un despote"
+        },
+        {
+            "english": "a detente",
+            "french": "une détente"
+        },
+        {
+            "english": "a device",
+            "french": "un dispositif"
+        },
+        {
+            "english": "a dictator",
+            "french": "un dictateur"
+        },
+        {
+            "english": "a diplomatic crisis",
+            "french": "une crise diplomatique"
+        },
+        {
+            "english": "a disarray",
+            "french": "un désarroi"
+        },
+        {
+            "english": "a disaster",
+            "french": "un désastre"
+        },
+        {
+            "english": "a discipline",
+            "french": "une discipline"
+        },
+        {
+            "english": "a disease",
+            "french": "une maladie"
+        },
+        {
+            "english": "a dispute",
+            "french": "une dispute"
+        },
+        {
+            "english": "a disruption",
+            "french": "une perturbation/un bouleversement"
+        },
+        {
+            "english": "a dissonance",
+            "french": "une dissonance"
+        },
+        {
+            "english": "a doctrine",
+            "french": "une doctrine"
+        },
+        {
+            "english": "a dove",
+            "french": "une colombe"
+        },
+        {
+            "english": "a downfall",
+            "french": "une chute"
+        },
+        {
+            "english": "a drama",
+            "french": "un drame"
+        },
+        {
+            "english": "a drone",
+            "french": "un drone"
+        },
+        {
+            "english": "a duty",
+            "french": "un devoir"
+        },
+        {
+            "english": "a faction",
+            "french": "une faction"
+        },
+        {
+            "english": "a fanatic",
+            "french": "un fanatique"
+        },
+        {
+            "english": "a fighter",
+            "french": "un combattant"
+        },
+        {
+            "english": "a fighter pilot",
+            "french": "un pilote de chasse"
+        },
+        {
+            "english": "a fire arm",
+            "french": "une arme à feu"
+        },
+        {
+            "english": "a fleet",
+            "french": "une flotte"
+        },
+        {
+            "english": "a flight",
+            "french": "un vol"
+        },
+        {
+            "english": "a foot soldier",
+            "french": "un fantassin"
+        },
+        {
+            "english": "a fortification",
+            "french": "une fortification"
+        },
+        {
+            "english": "a fugitive",
+            "french": "un fugitif"
+        },
+        {
+            "english": "a fusillade",
+            "french": "une fusillade"
+        },
+        {
+            "english": "a garrison",
+            "french": "une garnison"
+        },
+        {
+            "english": "a genocide",
+            "french": "un génocide"
+        },
+        {
+            "english": "a government",
+            "french": "un gouvernement"
+        },
+        {
+            "english": "a grave",
+            "french": "une tombe"
+        },
+        {
+            "english": "a green beret",
+            "french": "un béret vert"
+        },
+        {
+            "english": "a grenade",
+            "french": "une grenade"
+        },
+        {
+            "english": "a ground operation",
+            "french": "une opération au sol"
+        },
+        {
+            "english": "a guard",
+            "french": "un garde"
+        },
+        {
+            "english": "a gunner",
+            "french": "un artilleur"
+        },
+        {
+            "english": "a gunship",
+            "french": "un hélicoptère de combat"
+        },
+        {
+            "english": "a hand grenade",
+            "french": "une grenade à main"
+        },
+        {
+            "english": "a hazard",
+            "french": "un danger/un risque"
+        },
+        {
+            "english": "a helmet",
+            "french": "un casque"
+        },
+        {
+            "english": "a holocaust",
+            "french": "un holocauste"
+        },
+        {
+            "english": "a hostage",
+            "french": "un otage"
+        },
+        {
+            "english": "a landing",
+            "french": "un débarquement"
+        },
+        {
+            "english": "a machine gun",
+            "french": "une mitrailleuse"
+        },
+        {
+            "english": "a massacre",
+            "french": "une tuerie/un massacre"
+        },
+        {
+            "english": "a militant",
+            "french": "un militant"
+        },
+        {
+            "english": "a military ration",
+            "french": "une ration militaire"
+        },
+        {
+            "english": "a militia",
+            "french": "une milice"
+        },
+        {
+            "english": "a mine",
+            "french": "une mine"
+        },
+        {
+            "english": "a missile",
+            "french": "un missile"
+        },
+        {
+            "english": "a mission",
+            "french": "une mission"
+        },
+        {
+            "english": "a mistreatment",
+            "french": "un mauvais traitement/une maltraitance"
+        },
+        {
+            "english": "a mobilization",
+            "french": "une mobilisation"
+        },
+        {
+            "english": "a mortar",
+            "french": "un mortier"
+        },
+        {
+            "english": "a move/a maneuvre",
+            "french": "une manœuvre/une manoeuvre"
+        },
+        {
+            "english": "a murder",
+            "french": "un meurtre"
+        },
+        {
+            "english": "a musket",
+            "french": "un mousquet"
+        },
+        {
+            "english": "a nationalist",
+            "french": "un nationaliste"
+        },
+        {
+            "english": "a negotiation",
+            "french": "une négociation"
+        },
+        {
+            "english": "a negotiator",
+            "french": "un négociateur"
+        },
+        {
+            "english": "a nuclear warhead",
+            "french": "une ogive nucléaire"
+        },
+        {
+            "english": "a pact",
+            "french": "un pacte"
+        },
+        {
+            "english": "a parade",
+            "french": "une parade"
+        },
+        {
+            "english": "a paratrooper",
+            "french": "un parachutiste"
+        },
+        {
+            "english": "a partisan",
+            "french": "un partisan"
+        },
+        {
+            "english": "a patriot",
+            "french": "un patriote"
+        },
+        {
+            "english": "a patrol",
+            "french": "une patrouille"
+        },
+        {
+            "english": "a peace accord",
+            "french": "un accord de paix"
+        },
+        {
+            "english": "a peace demonstration",
+            "french": "une manifestation de paix"
+        },
+        {
+            "english": "a peace treaty",
+            "french": "un traité de paix"
+        },
+        {
+            "english": "a peacekeeper",
+            "french": "un gardien de la paix"
+        },
+        {
+            "english": "a piece of shrapnel",
+            "french": "un éclat d’obus"
+        },
+        {
+            "english": "a pilot",
+            "french": "un pilote"
+        },
+        {
+            "english": "a pistol",
+            "french": "un pistolet"
+        },
+        {
+            "english": "a platoon",
+            "french": "un peloton"
+        },
+        {
+            "english": "a position",
+            "french": "une position"
+        },
+        {
+            "english": "a prison",
+            "french": "une prison"
+        },
+        {
+            "english": "a prisoner",
+            "french": "un prisonnier"
+        },
+        {
+            "english": "a private",
+            "french": "un soldat/un simple soldat"
+        },
+        {
+            "english": "a projectile",
+            "french": "un projectile"
+        },
+        {
+            "english": "a quarrel",
+            "french": "une querelle"
+        },
+        {
+            "english": "a ransom",
+            "french": "une rançon"
+        },
+        {
+            "english": "a rebel",
+            "french": "un rebelle"
+        },
+        {
+            "english": "a rebellion",
+            "french": "une rébellion"
+        },
+        {
+            "english": "a reconciliation",
+            "french": "une réconciliation"
+        },
+        {
+            "english": "a reconnaissance",
+            "french": "une reconnaissance"
+        },
+        {
+            "english": "a recovery",
+            "french": "une reprise"
+        },
+        {
+            "english": "a recruit",
+            "french": "une recrue"
+        },
+        {
+            "english": "a recruitment",
+            "french": "un recrutement"
+        },
+        {
+            "english": "a red cross",
+            "french": "une croix rouge"
+        },
+        {
+            "english": "a reform",
+            "french": "une réforme"
+        },
+        {
+            "english": "a refugee",
+            "french": "un réfugié"
+        },
+        {
+            "english": "a regiment",
+            "french": "un régiment"
+        },
+        {
+            "english": "a reputation",
+            "french": "une réputation"
+        },
+        {
+            "english": "a rescue",
+            "french": "un sauvetage"
+        },
+        {
+            "english": "a reservist",
+            "french": "un réserviste"
+        },
+        {
+            "english": "a retribution",
+            "french": "une rétribution"
+        },
+        {
+            "english": "a revenge",
+            "french": "une vengeance"
+        },
+        {
+            "english": "a revolution",
+            "french": "une révolution"
+        },
+        {
+            "english": "a revolver",
+            "french": "un revolver"
+        },
+        {
+            "english": "a rifle",
+            "french": "un fusil"
+        },
+        {
+            "english": "a rival",
+            "french": "un rival"
+        },
+        {
+            "english": "a rocket",
+            "french": "une fusée"
+        },
+        {
+            "english": "a rocket-launcher",
+            "french": "un lance-roquettes"
+        },
+        {
+            "english": "a sabotage",
+            "french": "un sabotage"
+        },
+        {
+            "english": "a sacrifice",
+            "french": "un sacrifice"
+        },
+        {
+            "english": "a samurai",
+            "french": "un samouraï"
+        },
+        {
+            "english": "a sanction",
+            "french": "une sanction"
+        },
+        {
+            "english": "a scout",
+            "french": "un éclaireur"
+        },
+        {
+            "english": "a scouting plane",
+            "french": "un avion de reconnaissance"
+        },
+        {
+            "english": "a sedition",
+            "french": "une sédition"
+        },
+        {
+            "english": "a sergeant",
+            "french": "un sergent"
+        },
+        {
+            "english": "a shell",
+            "french": "un obus"
+        },
+        {
+            "english": "a shock",
+            "french": "un choc"
+        },
+        {
+            "english": "a shot",
+            "french": "un coup de feu"
+        },
+        {
+            "english": "a shotgun",
+            "french": "un fusil à pompe"
+        },
+        {
+            "english": "a siege",
+            "french": "un siège"
+        },
+        {
+            "english": "a skirmish",
+            "french": "une escarmouche"
+        },
+        {
+            "english": "a soldier",
+            "french": "un soldat"
+        },
+        {
+            "english": "a spokesman",
+            "french": "un porte-parole"
+        },
+        {
+            "english": "a spy",
+            "french": "un espion"
+        },
+        {
+            "english": "a squad/a squadron",
+            "french": "une escouade"
+        },
+        {
+            "english": "a squadron",
+            "french": "une escadrille"
+        },
+        {
+            "english": "a stealth bomber",
+            "french": "un bombardier furtif"
+        },
+        {
+            "english": "a strategist",
+            "french": "un stratège"
+        },
+        {
+            "english": "a stronghold",
+            "french": "une forteresse/une place-forte/un bastion"
+        },
+        {
+            "english": "a submarine",
+            "french": "un sous-marin"
+        },
+        {
+            "english": "a suicide bomber",
+            "french": "un kamikaze"
+        },
+        {
+            "english": "a survivor",
+            "french": "un survivant"
+        },
+        {
+            "english": "a suspect",
+            "french": "un suspect"
+        },
+        {
+            "english": "a sword",
+            "french": "une épée"
+        },
+        {
+            "english": "a tactic",
+            "french": "une tactique"
+        },
+        {
+            "english": "a tank",
+            "french": "un réservoir"
+        },
+        {
+            "english": "a target",
+            "french": "une cible"
+        },
+        {
+            "english": "a terrorist",
+            "french": "un terroriste"
+        },
+        {
+            "english": "a threat",
+            "french": "une menace"
+        },
+        {
+            "english": "a torpedo",
+            "french": "une torpille"
+        },
+        {
+            "english": "a trap",
+            "french": "un piège"
+        },
+        {
+            "english": "a trauma",
+            "french": "un traumatisme"
+        },
+        {
+            "english": "a treaty",
+            "french": "un traité"
+        },
+        {
+            "english": "a trench",
+            "french": "une tranchée"
+        },
+        {
+            "english": "a trench warfare",
+            "french": "la guerre des tranchées"
+        },
+        {
+            "english": "a trigger",
+            "french": "un déclencheur"
+        },
+        {
+            "english": "a truce",
+            "french": "une trêve"
+        },
+        {
+            "english": "a uniform",
+            "french": "un uniforme"
+        },
+        {
+            "english": "a unit",
+            "french": "une unité"
+        },
+        {
+            "english": "a vehicle",
+            "french": "un véhicule"
+        },
+        {
+            "english": "a veteran",
+            "french": "un vétéran"
+        },
+        {
+            "english": "a volunteer",
+            "french": "un volontaire"
+        },
+        {
+            "english": "a war",
+            "french": "une guerre"
+        },
+        {
+            "english": "a warhead",
+            "french": "une ogive"
+        },
+        {
+            "english": "a warplane",
+            "french": "un avion de guerre"
+        },
+        {
+            "english": "a warrant",
+            "french": "un mandat"
+        },
+        {
+            "english": "a warrior",
+            "french": "un guerrier"
+        },
+        {
+            "english": "a warship",
+            "french": "un navire de guerre"
+        },
+        {
+            "english": "a weapon",
+            "french": "une arme"
+        },
+        {
+            "english": "a white flag",
+            "french": "un drapeau blanc"
+        },
+        {
+            "english": "a world war",
+            "french": "une guerre mondiale"
+        },
+        {
+            "english": "a zone",
+            "french": "une zone"
+        },
+        {
+            "english": "aerial",
+            "french": "aérien"
+        },
+        {
+            "english": "air force",
+            "french": "l’armée de l’air"
+        },
+        {
+            "english": "air-fighting",
+            "french": "le combat aérien"
+        },
+        {
+            "english": "allied forces",
+            "french": "les forces alliées"
+        },
+        {
+            "english": "amiable",
+            "french": "aimable"
+        },
+        {
+            "english": "amity",
+            "french": "l’amitié"
+        },
+        {
+            "english": "ammunition",
+            "french": "des munitions"
+        },
+        {
+            "english": "an admiral",
+            "french": "un amiral"
+        },
+        {
+            "english": "an aggressor",
+            "french": "un agresseur"
+        },
+        {
+            "english": "an agitator",
+            "french": "un agitateur"
+        },
+        {
+            "english": "an agreement",
+            "french": "un accord/une entente"
+        },
+        {
+            "english": "an air raid",
+            "french": "un raid aérien"
+        },
+        {
+            "english": "an air strike",
+            "french": "une frappe aérienne"
+        },
+        {
+            "english": "an aircraft/a plane",
+            "french": "un avion"
+        },
+        {
+            "english": "an aircraft carrier",
+            "french": "un porte-avion"
+        },
+        {
+            "english": "an airfield",
+            "french": "un aérodrome/un terrain d’aviation"
+        },
+        {
+            "english": "an airplane/a plane",
+            "french": "un avion"
+        },
+        {
+            "english": "an alert",
+            "french": "une alerte"
+        },
+        {
+            "english": "an alliance",
+            "french": "une alliance"
+        },
+        {
+            "english": "an ally",
+            "french": "un allié"
+        },
+        {
+            "english": "an ally",
+            "french": "un allié"
+        },
+        {
+            "english": "an ambassador",
+            "french": "un ambassadeur"
+        },
+        {
+            "english": "an ambush",
+            "french": "une embuscade"
+        },
+        {
+            "english": "an antipersonal mine",
+            "french": "une mine anti-personnelle"
+        },
+        {
+            "english": "an armistice",
+            "french": "un armistice"
+        },
+        {
+            "english": "an armoury",
+            "french": "une armurerie"
+        },
+        {
+            "english": "an army",
+            "french": "une armée"
+        },
+        {
+            "english": "an arsenal",
+            "french": "un arsenal"
+        },
+        {
+            "english": "an arsenal/anarmory",
+            "french": "un arsenal/une armurerie"
+        },
+        {
+            "english": "an assassin",
+            "french": "un assassin"
+        },
+        {
+            "english": "an assault",
+            "french": "un assaut"
+        },
+        {
+            "english": "an assault rifle",
+            "french": "un fusil d’assaut"
+        },
+        {
+            "english": "an atrocity",
+            "french": "une atrocité"
+        },
+        {
+            "english": "an attack",
+            "french": "une attaque/un attentat"
+        },
+        {
+            "english": "an embargo",
+            "french": "un embargo"
+        },
+        {
+            "english": "an encounter",
+            "french": "une rencontre"
+        },
+        {
+            "english": "an enemy",
+            "french": "un ennemi"
+        },
+        {
+            "english": "an enforcement",
+            "french": "une application"
+        },
+        {
+            "english": "an engagement",
+            "french": "un engagement"
+        },
+        {
+            "english": "an evacuee",
+            "french": "un évacué"
+        },
+        {
+            "english": "an excess",
+            "french": "un excès"
+        },
+        {
+            "english": "an execution",
+            "french": "une exécution"
+        },
+        {
+            "english": "an exercise",
+            "french": "un exercice"
+        },
+        {
+            "english": "an exploitation",
+            "french": "une exploitation"
+        },
+        {
+            "english": "an explosion/a blast",
+            "french": "une explosion"
+        },
+        {
+            "english": "an explosive",
+            "french": "un explosif"
+        },
+        {
+            "english": "an impact",
+            "french": "un impact"
+        },
+        {
+            "english": "an incident",
+            "french": "un incident"
+        },
+        {
+            "english": "an infantry",
+            "french": "une infanterie"
+        },
+        {
+            "english": "an informant",
+            "french": "un informateur"
+        },
+        {
+            "english": "an insurgent",
+            "french": "un insurgé"
+        },
+        {
+            "english": "an insurrection",
+            "french": "une insurrection"
+        },
+        {
+            "english": "an interdiction",
+            "french": "une interdiction"
+        },
+        {
+            "english": "an interrogation",
+            "french": "une interrogation"
+        },
+        {
+            "english": "an invader",
+            "french": "un envahisseur"
+        },
+        {
+            "english": "an invasion",
+            "french": "une invasion"
+        },
+        {
+            "english": "an investigations",
+            "french": "une enquête"
+        },
+        {
+            "english": "an involvement",
+            "french": "une implication"
+        },
+        {
+            "english": "an offensive",
+            "french": "une offensive"
+        },
+        {
+            "english": "an officer",
+            "french": "un gendarme"
+        },
+        {
+            "english": "an officer",
+            "french": "un officier"
+        },
+        {
+            "english": "an olive branch",
+            "french": "un rameau d’olivier"
+        },
+        {
+            "english": "an operation",
+            "french": "une opération"
+        },
+        {
+            "english": "an opposition",
+            "french": "une opposition"
+        },
+        {
+            "english": "an order",
+            "french": "un ordre"
+        },
+        {
+            "english": "an outbreak",
+            "french": "une épidémie"
+        },
+        {
+            "english": "an uprising",
+            "french": "un soulèvement"
+        },
+        {
+            "english": "an urgency",
+            "french": "une urgence"
+        },
+        {
+            "english": "anarchy",
+            "french": "anarchie"
+        },
+        {
+            "english": "anguish",
+            "french": "angoisse"
+        },
+        {
+            "english": "annihilation",
+            "french": "annihilation"
+        },
+        {
+            "english": "appeasement",
+            "french": "apaisement"
+        },
+        {
+            "english": "arduous",
+            "french": "difficile"
+        },
+        {
+            "english": "armament",
+            "french": "armement"
+        },
+        {
+            "english": "armed forces",
+            "french": "forces armées"
+        },
+        {
+            "english": "armoured",
+            "french": "blindé"
+        },
+        {
+            "english": "armouring",
+            "french": "blindage"
+        },
+        {
+            "english": "arms",
+            "french": "des armes"
+        },
+        {
+            "english": "arms caches",
+            "french": "cache d'armes"
+        },
+        {
+            "english": "army leave",
+            "french": "congé militaire"
+        },
+        {
+            "english": "artillery",
+            "french": "artillerie"
+        },
+        {
+            "english": "at war",
+            "french": "en guerre"
+        },
+        {
+            "english": "atrocious",
+            "french": "atroce"
+        },
+        {
+            "english": "atrocities",
+            "french": "atrocités"
+        },
+        {
+            "english": "attrition",
+            "french": "usure"
+        },
+        {
+            "english": "authority",
+            "french": "autorité"
+        },
+        {
+            "english": "battle dress",
+            "french": "tenue de combat"
+        },
+        {
+            "english": "bellicose",
+            "french": "belliqueux"
+        },
+        {
+            "english": "blood",
+            "french": "sang"
+        },
+        {
+            "english": "blown to pieces",
+            "french": "déchiqueté"
+        },
+        {
+            "english": "brutal",
+            "french": "brutal"
+        },
+        {
+            "english": "brutality",
+            "french": "brutalité"
+        },
+        {
+            "english": "bulletproof",
+            "french": "blindé"
+        },
+        {
+            "english": "camouflage",
+            "french": "camouflage"
+        },
+        {
+            "english": "cannon fodder",
+            "french": "chair à canon"
+        },
+        {
+            "english": "captive",
+            "french": "captif"
+        },
+        {
+            "english": "cautious",
+            "french": "prudent"
+        },
+        {
+            "english": "chaos",
+            "french": "chaos"
+        },
+        {
+            "english": "chemical",
+            "french": "chimique"
+        },
+        {
+            "english": "collateral damage",
+            "french": "dommages collatéraux"
+        },
+        {
+            "english": "compassion",
+            "french": "compassion"
+        },
+        {
+            "english": "concentration",
+            "french": "concentration"
+        },
+        {
+            "english": "consequences",
+            "french": "conséquences"
+        },
+        {
+            "english": "courageous",
+            "french": "courageux"
+        },
+        {
+            "english": "culpability",
+            "french": "culpabilité"
+        },
+        {
+            "english": "damages",
+            "french": "dommages"
+        },
+        {
+            "english": "dangerous",
+            "french": "dangereux"
+        },
+        {
+            "english": "dead/death",
+            "french": "mort"
+        },
+        {
+            "english": "deadly",
+            "french": "mortel/meurtrier"
+        },
+        {
+            "english": "defence/defense",
+            "french": "défense"
+        },
+        {
+            "english": "defensive",
+            "french": "défensif"
+        },
+        {
+            "english": "demilitarization",
+            "french": "démilitarisation"
+        },
+        {
+            "english": "demoralization",
+            "french": "démoralisation"
+        },
+        {
+            "english": "desertion",
+            "french": "désertion"
+        },
+        {
+            "english": "destruction",
+            "french": "destruction"
+        },
+        {
+            "english": "detection",
+            "french": "détection"
+        },
+        {
+            "english": "diplomacy",
+            "french": "diplomatie"
+        },
+        {
+            "english": "disastrous",
+            "french": "catastrophique"
+        },
+        {
+            "english": "doomed",
+            "french": "condamné"
+        },
+        {
+            "english": "education",
+            "french": "éducation"
+        },
+        {
+            "english": "endurance",
+            "french": "endurance"
+        },
+        {
+            "english": "enemy forces",
+            "french": "forces ennemies"
+        },
+        {
+            "english": "escalation",
+            "french": "escalade"
+        },
+        {
+            "english": "escaped",
+            "french": "échappé"
+        },
+        {
+            "english": "expectations",
+            "french": "attentes"
+        },
+        {
+            "english": "extremism",
+            "french": "extrémisme"
+        },
+        {
+            "english": "fatal",
+            "french": "fatal"
+        },
+        {
+            "english": "fatigues",
+            "french": "treillis"
+        },
+        {
+            "english": "fearless",
+            "french": "sans peur"
+        },
+        {
+            "english": "ferocious/fierce",
+            "french": "féroce"
+        },
+        {
+            "english": "forceful",
+            "french": "énergique/vigoureux"
+        },
+        {
+            "english": "forgiveness",
+            "french": "pardon"
+        },
+        {
+            "english": "fraternity",
+            "french": "fraternité"
+        },
+        {
+            "english": "friendly",
+            "french": "amical"
+        },
+        {
+            "english": "friendship",
+            "french": "amitié"
+        },
+        {
+            "english": "furtive",
+            "french": "furtif"
+        },
+        {
+            "english": "guerrilla warfare",
+            "french": "guérilla"
+        },
+        {
+            "english": "guided bombs",
+            "french": "bombes guidées"
+        },
+        {
+            "english": "gunpowder",
+            "french": "poudre à canon"
+        },
+        {
+            "english": "guns",
+            "french": "pistolets/armes/armes à feu"
+        },
+        {
+            "english": "harmony",
+            "french": "harmonie"
+        },
+        {
+            "english": "harsh",
+            "french": "dur/difficile"
+        },
+        {
+            "english": "hatred",
+            "french": "haine"
+        },
+        {
+            "english": "heroic",
+            "french": "héroïque"
+        },
+        {
+            "english": "heroism",
+            "french": "héroïsme"
+        },
+        {
+            "english": "hostilities",
+            "french": "hostilités"
+        },
+        {
+            "english": "hostility",
+            "french": "hostilité"
+        },
+        {
+            "english": "humanitarian",
+            "french": "humanitaire"
+        },
+        {
+            "english": "in peacetime",
+            "french": "en temps de paix"
+        },
+        {
+            "english": "infantry",
+            "french": "infanterie"
+        },
+        {
+            "english": "injuries",
+            "french": "blessures"
+        },
+        {
+            "english": "instructions",
+            "french": "instructions"
+        },
+        {
+            "english": "intelligence",
+            "french": "renseignement/services secrets"
+        },
+        {
+            "english": "intense",
+            "french": "intense"
+        },
+        {
+            "english": "international",
+            "french": "international"
+        },
+        {
+            "english": "invade",
+            "french": "envahir"
+        },
+        {
+            "english": "killed in action",
+            "french": "tué au combat"
+        },
+        {
+            "english": "lay down our arms",
+            "french": "déposer les armes"
+        },
+        {
+            "english": "lethal",
+            "french": "mortel"
+        },
+        {
+            "english": "looming",
+            "french": "menaçant"
+        },
+        {
+            "english": "loyalty",
+            "french": "fidélité/loyauté"
+        },
+        {
+            "english": "mayhem",
+            "french": "chaos/carnage"
+        },
+        {
+            "english": "mediation",
+            "french": "médiation"
+        },
+        {
+            "english": "megalomania",
+            "french": "mégalomanie"
+        },
+        {
+            "english": "menacing",
+            "french": "menaçant"
+        },
+        {
+            "english": "military",
+            "french": "militaire"
+        },
+        {
+            "english": "missing in action",
+            "french": "porté disparu"
+        },
+        {
+            "english": "munitions",
+            "french": "munitions"
+        },
+        {
+            "english": "mustard gas",
+            "french": "gaz moutarde"
+        },
+        {
+            "english": "napalm",
+            "french": "napalm"
+        },
+        {
+            "english": "negotiate",
+            "french": "négocier"
+        },
+        {
+            "english": "neutral",
+            "french": "neutre"
+        },
+        {
+            "english": "neutrality",
+            "french": "neutralité"
+        },
+        {
+            "english": "nuclear deterrence",
+            "french": "dissuasion nucléaire"
+        },
+        {
+            "english": "negotiations",
+            "french": "négociations"
+        },
+        {
+            "english": "penalties",
+            "french": "sanctions"
+        },
+        {
+            "english": "on guard",
+            "french": "de garde/sur ses gardes"
+        },
+        {
+            "english": "on leave",
+            "french": "en permission"
+        },
+        {
+            "english": "a grade",
+            "french": "un grade"
+        },
+        {
+            "english": "one regiment",
+            "french": "un régiment"
+        },
+        {
+            "english": "a secession",
+            "french": "une sécession"
+        },
+        {
+            "english": "pacifism",
+            "french": "pacifisme"
+        },
+        {
+            "english": "pacify",
+            "french": "pacifier"
+        },
+        {
+            "english": "patriotism",
+            "french": "patriotisme"
+        },
+        {
+            "english": "pay tribute",
+            "french": "rendre hommage"
+        },
+        {
+            "english": "peace",
+            "french": "paix"
+        },
+        {
+            "english": "peace negotiations",
+            "french": "négociations de paix"
+        },
+        {
+            "english": "peacefully",
+            "french": "pacifiquement"
+        },
+        {
+            "english": "peacekeeping",
+            "french": "maintien de la paix"
+        },
+        {
+            "english": "poisonous/toxic",
+            "french": "toxique"
+        },
+        {
+            "english": "powerful",
+            "french": "puissant"
+        },
+        {
+            "english": "preemptive",
+            "french": "préemptive/préemptif"
+        },
+        {
+            "english": "premeditated",
+            "french": "prémédité"
+        },
+        {
+            "english": "preparations",
+            "french": "préparatifs"
+        },
+        {
+            "english": "propaganda",
+            "french": "propagande"
+        },
+        {
+            "english": "radical",
+            "french": "radical"
+        },
+        {
+            "english": "radioactivity",
+            "french": "radioactivité"
+        },
+        {
+            "english": "ratification",
+            "french": "ratification"
+        },
+        {
+            "english": "reinforcements",
+            "french": "renforts"
+        },
+        {
+            "english": "relentless",
+            "french": "implacable/acharné"
+        },
+        {
+            "english": "reparation",
+            "french": "une réparation"
+        },
+        {
+            "english": "retaliation",
+            "french": "des représailles"
+        },
+        {
+            "english": "retreat",
+            "french": "battre en retraite"
+        },
+        {
+            "english": "ruthless",
+            "french": "impitoyable"
+        },
+        {
+            "english": "savage",
+            "french": "sauvage"
+        },
+        {
+            "english": "shell-shocked",
+            "french": "traumatisé"
+        },
+        {
+            "english": "specialized",
+            "french": "spécialisé"
+        },
+        {
+            "english": "stability",
+            "french": "stabilité"
+        },
+        {
+            "english": "strategic",
+            "french": "stratégique"
+        },
+        {
+            "english": "tactical",
+            "french": "tactique"
+        },
+        {
+            "english": "terrorism",
+            "french": "terrorisme"
+        },
+        {
+            "english": "the aftermath",
+            "french": "les conséquences"
+        },
+        {
+            "english": "the armistice",
+            "french": "l’armistice"
+        },
+        {
+            "english": "the arms race",
+            "french": "la course à l’armement"
+        },
+        {
+            "english": "the balance",
+            "french": "l’équilibre"
+        },
+        {
+            "english": "the bombing",
+            "french": "le bombardement"
+        },
+        {
+            "english": "the brink of war",
+            "french": "au bord de la guerre"
+        },
+        {
+            "english": "the cavalry",
+            "french": "la cavalerie"
+        },
+        {
+            "english": "the cold war",
+            "french": "la guerre froide"
+        },
+        {
+            "english": "the colonel",
+            "french": "le colonel"
+        },
+        {
+            "english": "the commander",
+            "french": "le commandant"
+        },
+        {
+            "english": "the devastation",
+            "french": "la dévastation"
+        },
+        {
+            "english": "the disarmament",
+            "french": "le désarmement"
+        },
+        {
+            "english": "the elite",
+            "french": "l’élite"
+        },
+        {
+            "english": "the enemy",
+            "french": "l’ennemi"
+        },
+        {
+            "english": "the enemy line",
+            "french": "les lignes ennemies"
+        },
+        {
+            "english": "the espionage",
+            "french": "l’espionnage"
+        },
+        {
+            "english": "the fleet",
+            "french": "la flotte"
+        },
+        {
+            "english": "the forces",
+            "french": "les forces"
+        },
+        {
+            "english": "the front line",
+            "french": "la ligne de front"
+        },
+        {
+            "english": "the general staff",
+            "french": "l’état-major"
+        },
+        {
+            "english": "the geneva convention",
+            "french": "la convention de genève"
+        },
+        {
+            "english": "the impact",
+            "french": "l’impact"
+        },
+        {
+            "english": "the liberation",
+            "french": "la libération"
+        },
+        {
+            "english": "the liberators",
+            "french": "les libérateurs"
+        },
+        {
+            "english": "the losses",
+            "french": "les pertes"
+        },
+        {
+            "english": "the military service",
+            "french": "le service militaire"
+        },
+        {
+            "english": "the ministry of defence",
+            "french": "le ministère de la défense"
+        },
+        {
+            "english": "the missing",
+            "french": "les disparus"
+        },
+        {
+            "english": "the navy",
+            "french": "la marine"
+        },
+        {
+            "english": "the outbreak of the war",
+            "french": "le début de la guerre"
+        },
+        {
+            "english": "the outcome",
+            "french": "l’issue"
+        },
+        {
+            "english": "the paramedics",
+            "french": "les ambulanciers"
+        },
+        {
+            "english": "the powder",
+            "french": "la poudre"
+        },
+        {
+            "english": "the power",
+            "french": "la puissance"
+        },
+        {
+            "english": "the radiation",
+            "french": "le rayonnement"
+        },
+        {
+            "english": "the rage",
+            "french": "la rage"
+        },
+        {
+            "english": "the rear",
+            "french": "l’arrière"
+        },
+        {
+            "english": "the resistance",
+            "french": "la résistance"
+        },
+        {
+            "english": "the security",
+            "french": "la sécurité"
+        },
+        {
+            "english": "the serenity",
+            "french": "la sérénité"
+        },
+        {
+            "english": "the slaughter",
+            "french": "le massacre"
+        },
+        {
+            "english": "the solidarity",
+            "french": "la solidarité"
+        },
+        {
+            "english": "the stakes",
+            "french": "les enjeux"
+        },
+        {
+            "english": "the stealth",
+            "french": "la furtivité"
+        },
+        {
+            "english": "the strategy",
+            "french": "la stratégie"
+        },
+        {
+            "english": "the suffering",
+            "french": "la souffrance"
+        },
+        {
+            "english": "the supplies",
+            "french": "les provisions/les rations"
+        },
+        {
+            "english": "the support",
+            "french": "le soutien"
+        },
+        {
+            "english": "the suppression",
+            "french": "la suppression"
+        },
+        {
+            "english": "the surprise",
+            "french": "la surprise"
+        },
+        {
+            "english": "the survival",
+            "french": "la survie"
+        },
+        {
+            "english": "the tension",
+            "french": "la tension"
+        },
+        {
+            "english": "the terrain",
+            "french": "le terrain"
+        },
+        {
+            "english": "the terror",
+            "french": "la terreur"
+        },
+        {
+            "english": "the transportation",
+            "french": "le transport"
+        },
+        {
+            "english": "the treachery",
+            "french": "la trahison"
+        },
+        {
+            "english": "the troops",
+            "french": "les troupes"
+        },
+        {
+            "english": "the trust",
+            "french": "la confiance"
+        },
+        {
+            "english": "the truth",
+            "french": "la vérité"
+        },
+        {
+            "english": "the valor",
+            "french": "la bravoure"
+        },
+        {
+            "english": "the victory",
+            "french": "la victoire"
+        },
+        {
+            "english": "the violation",
+            "french": "la violation"
+        },
+        {
+            "english": "the violence",
+            "french": "la violence"
+        },
+        {
+            "english": "the vulnerability",
+            "french": "la vulnérabilité"
+        },
+        {
+            "english": "the wounded",
+            "french": "les blessés"
+        },
+        {
+            "english": "the wounds",
+            "french": "les blessures"
+        },
+        {
+            "english": "the wreckage",
+            "french": "l’épave"
+        },
+        {
+            "english": "tolerance",
+            "french": "la tolérance"
+        },
+        {
+            "english": "tragic",
+            "french": "tragique"
+        },
+        {
+            "english": "turbulent",
+            "french": "turbulent"
+        },
+        {
+            "english": "unavoidable/inevitable",
+            "french": "inévitable"
+        },
+        {
+            "english": "unbelievable",
+            "french": "incroyable"
+        },
+        {
+            "english": "unconventional",
+            "french": "non conventionnel"
+        },
+        {
+            "english": "vanguard",
+            "french": "avant-garde"
+        },
+        {
+            "english": "victorious",
+            "french": "victorieux"
+        },
+        {
+            "english": "vital",
+            "french": "vital/indispensable"
+        },
+        {
+            "english": "warheads",
+            "french": "ogives"
+        },
+        {
+            "english": "to aim",
+            "french": "viser"
+        },
+        {
+            "english": "to ambush",
+            "french": "tendre une embuscade"
+        },
+        {
+            "english": "to annihilate",
+            "french": "anéantir"
+        },
+        {
+            "english": "to assassinate",
+            "french": "assassiner"
+        },
+        {
+            "english": "to attack",
+            "french": "attaquer"
+        },
+        {
+            "english": "to be at war",
+            "french": "être en guerre"
+        },
+        {
+            "english": "to be declared unfit",
+            "french": "être réformé"
+        },
+        {
+            "english": "to be fit for service",
+            "french": "être bon pour le service"
+        },
+        {
+            "english": "to be killed",
+            "french": "être tué"
+        },
+        {
+            "english": "to be overrun by",
+            "french": "être envahi par/être dépassé par"
+        },
+        {
+            "english": "to be shot",
+            "french": "se faire tirer dessus/être abattu"
+        },
+        {
+            "english": "to beat",
+            "french": "battre"
+        },
+        {
+            "english": "to betray",
+            "french": "trahir"
+        },
+        {
+            "english": "to bombard",
+            "french": "bombarder"
+        },
+        {
+            "english": "to breach",
+            "french": "transgresser/violer"
+        },
+        {
+            "english": "to burn",
+            "french": "brûler"
+        },
+        {
+            "english": "to burst",
+            "french": "éclater"
+        },
+        {
+            "english": "to bury",
+            "french": "enterrer"
+        },
+        {
+            "english": "to call off",
+            "french": "annuler/résilier"
+        },
+        {
+            "english": "to capture",
+            "french": "capturer"
+        },
+        {
+            "english": "to carry out a threat",
+            "french": "mettre une menace à exécution"
+        },
+        {
+            "english": "to collapse",
+            "french": "s’effondrer"
+        },
+        {
+            "english": "to command",
+            "french": "commander"
+        },
+        {
+            "english": "to conquer",
+            "french": "conquérir"
+        },
+        {
+            "english": "to consolidate",
+            "french": "consolider"
+        },
+        {
+            "english": "to conspire",
+            "french": "conspirer"
+        },
+        {
+            "english": "to contact",
+            "french": "contacter"
+        },
+        {
+            "english": "to contaminate",
+            "french": "contaminer"
+        },
+        {
+            "english": "to control",
+            "french": "contrôler"
+        },
+        {
+            "english": "to coordinate",
+            "french": "coordonner"
+        },
+        {
+            "english": "to counter attack/to counterattack",
+            "french": "contre-attaquer"
+        },
+        {
+            "english": "to crack down",
+            "french": "réprimer"
+        },
+        {
+            "english": "to declare war",
+            "french": "déclarer la guerre"
+        },
+        {
+            "english": "to defeat",
+            "french": "vaincre/battre/faire échouer"
+        },
+        {
+            "english": "to defend",
+            "french": "défendre"
+        },
+        {
+            "english": "to defuse",
+            "french": "désamorcer"
+        },
+        {
+            "english": "to demolish",
+            "french": "démolir"
+        },
+        {
+            "english": "to deploy",
+            "french": "déployer"
+        },
+        {
+            "english": "to destroy",
+            "french": "détruire"
+        },
+        {
+            "english": "to detect",
+            "french": "détecter"
+        },
+        {
+            "english": "to deter",
+            "french": "dissuader"
+        },
+        {
+            "english": "to die",
+            "french": "mourir"
+        },
+        {
+            "english": "to dismantle",
+            "french": "démanteler/démonter"
+        },
+        {
+            "english": "to dispatch",
+            "french": "déployer"
+        },
+        {
+            "english": "to disperse",
+            "french": "se disperser"
+        },
+        {
+            "english": "to dominate",
+            "french": "dominer"
+        },
+        {
+            "english": "to dread",
+            "french": "redouter"
+        },
+        {
+            "english": "to duck",
+            "french": "se baisser/esquiver"
+        },
+        {
+            "english": "to enlist/to join the army",
+            "french": "s’engager"
+        },
+        {
+            "english": "to enroll / to draft",
+            "french": "appeler sous les drapeaux/mobiliser"
+        },
+        {
+            "english": "to escape",
+            "french": "échapper"
+        },
+        {
+            "english": "to evacuate",
+            "french": "évacuer"
+        },
+        {
+            "english": "to execute",
+            "french": "exécuter"
+        },
+        {
+            "english": "to explode",
+            "french": "exploser"
+        },
+        {
+            "english": "to fear",
+            "french": "avoir peur"
+        },
+        {
+            "english": "to fight",
+            "french": "combattre/se battre"
+        },
+        {
+            "english": "to fight off",
+            "french": "repousser/lutter contre"
+        },
+        {
+            "english": "to fire",
+            "french": "tirer/faire feu"
+        },
+        {
+            "english": "to flank",
+            "french": "flanquer"
+        },
+        {
+            "english": "to forgive",
+            "french": "pardonner"
+        },
+        {
+            "english": "to go to war",
+            "french": "aller à la guerre/partir en guerre"
+        },
+        {
+            "english": "to harass",
+            "french": "harceler"
+        },
+        {
+            "english": "to hate",
+            "french": "détester"
+        },
+        {
+            "english": "to hide",
+            "french": "cacher"
+        },
+        {
+            "english": "to hijack",
+            "french": "détourner"
+        },
+        {
+            "english": "to hospitalize",
+            "french": "hospitaliser"
+        },
+        {
+            "english": "to ignite",
+            "french": "mettre le feu/faire exploser/allumer"
+        },
+        {
+            "english": "to improvise",
+            "french": "improviser"
+        },
+        {
+            "english": "to incite",
+            "french": "inciter"
+        },
+        {
+            "english": "to infiltrate",
+            "french": "infiltrer"
+        },
+        {
+            "english": "to intercept",
+            "french": "intercepter"
+        },
+        {
+            "english": "to intervene",
+            "french": "intervenir"
+        },
+        {
+            "english": "to intimidate",
+            "french": "intimider"
+        },
+        {
+            "english": "to invade",
+            "french": "envahir"
+        },
+        {
+            "english": "to investigate",
+            "french": "enquêter"
+        },
+        {
+            "english": "to join",
+            "french": "joindre"
+        },
+        {
+            "english": "to keep peace",
+            "french": "maintenir la paix"
+        },
+        {
+            "english": "to kidnap",
+            "french": "kidnapper"
+        },
+        {
+            "english": "to kill",
+            "french": "tuer"
+        },
+        {
+            "english": "to launch",
+            "french": "lancer/lancer un missile/lancer une attaque"
+        },
+        {
+            "english": "to launch an offensive",
+            "french": "lancer une offensive"
+        },
+        {
+            "english": "to liberate",
+            "french": "libérer"
+        },
+        {
+            "english": "to loom",
+            "french": "menacer"
+        },
+        {
+            "english": "to make peace",
+            "french": "faire la paix"
+        },
+        {
+            "english": "to mobilise",
+            "french": "se mobiliser"
+        },
+        {
+            "english": "to mobilize",
+            "french": "mobiliser"
+        },
+        {
+            "english": "to mop up",
+            "french": "éponger"
+        },
+        {
+            "english": "to negotiate",
+            "french": "négocier"
+        },
+        {
+            "english": "to neutralize",
+            "french": "neutraliser"
+        },
+        {
+            "english": "to overthrow",
+            "french": "renverser"
+        },
+        {
+            "english": "to pacify",
+            "french": "apaiser"
+        },
+        {
+            "english": "to persecute",
+            "french": "persécuter"
+        },
+        {
+            "english": "to poison",
+            "french": "empoisonner"
+        },
+        {
+            "english": "to provoke a crisis",
+            "french": "provoquer une crise"
+        },
+        {
+            "english": "to pull back",
+            "french": "se retirer/reculer"
+        },
+        {
+            "english": "to pulverize",
+            "french": "pulvériser"
+        },
+        {
+            "english": "to rally",
+            "french": "se rallier"
+        },
+        {
+            "english": "to ravage",
+            "french": "ravager"
+        },
+        {
+            "english": "to recruit",
+            "french": "recruter"
+        },
+        {
+            "english": "to regroup",
+            "french": "se regrouper"
+        },
+        {
+            "english": "to retaliate",
+            "french": "riposter"
+        },
+        {
+            "english": "to retreat",
+            "french": "se retirer/battre en retraite"
+        },
+        {
+            "english": "to rule",
+            "french": "régner"
+        },
+        {
+            "english": "to scare",
+            "french": "effrayer"
+        },
+        {
+            "english": "to seize",
+            "french": "saisir/s’emparer de"
+        },
+        {
+            "english": "to send for backup",
+            "french": "demander des renforts"
+        },
+        {
+            "english": "to shoot",
+            "french": "tirer"
+        },
+        {
+            "english": "to sign a treaty",
+            "french": "signer un traité"
+        },
+        {
+            "english": "to sink a ship",
+            "french": "couler un navire"
+        },
+        {
+            "english": "to step up",
+            "french": "intensifier"
+        },
+        {
+            "english": "to strike",
+            "french": "frapper"
+        },
+        {
+            "english": "to struggle",
+            "french": "lutter"
+        },
+        {
+            "english": "to surrender",
+            "french": "se rendre"
+        },
+        {
+            "english": "to terrorize",
+            "french": "terroriser"
+        },
+        {
+            "english": "to threaten",
+            "french": "menacer"
+        },
+        {
+            "english": "to thwart/to counteract",
+            "french": "contrecarrer"
+        },
+        {
+            "english": "to trigger off a conflict",
+            "french": "déclencher un conflit"
+        },
+        {
+            "english": "to triumph",
+            "french": "triompher"
+        },
+        {
+            "english": "to unify",
+            "french": "d’unifier"
+        },
+        {
+            "english": "to unite",
+            "french": "unir"
+        },
+        {
+            "english": "to unleash",
+            "french": "déchaîner/lancer/provoquer"
+        },
+        {
+            "english": "to vanish",
+            "french": "disparaître"
+        },
+        {
+            "english": "to win",
+            "french": "gagner"
+        },
+        {
+            "english": "to withdraw",
+            "french": "se rétracter/se retirer"
+        },
+        {
+            "english": "to wound",
+            "french": "blesser"
+        }
+    ]
+}

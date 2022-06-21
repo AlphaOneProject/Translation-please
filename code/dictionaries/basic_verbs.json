@@ -1,0 +1,476 @@
+{
+    "words": [
+        {
+            "french": "accepter",
+            "english": "to accept"
+        },
+        {
+            "french": "acheter",
+            "english": "to buy"
+        },
+        {
+            "french": "aider",
+            "english": "to help"
+        },
+        {
+            "french": "aimer",
+            "english": "to like/to love"
+        },
+        {
+            "french": "ajouter",
+            "english": "to add"
+        },
+        {
+            "french": "aller",
+            "english": "to go"
+        },
+        {
+            "french": "allumer",
+            "english": "to turn on"
+        },
+        {
+            "french": "appeler",
+            "english": "to call/to contact"
+        },
+        {
+            "french": "apporter",
+            "english": "to bring/to take"
+        },
+        {
+            "french": "apprendre",
+            "english": "to learn/to teach/to hear of"
+        },
+        {
+            "french": "arrêter",
+            "english": "to stop"
+        },
+        {
+            "french": "arriver",
+            "english": "to arrive/to happen"
+        },
+        {
+            "french": "attendre",
+            "english": "to wait for/to expect"
+        },
+        {
+            "french": "avoir",
+            "english": "to have"
+        },
+        {
+            "french": "avoir besoin",
+            "english": "to require"
+        },
+        {
+            "french": "casser",
+            "english": "to break"
+        },
+        {
+            "french": "changer",
+            "english": "to change/to alter"
+        },
+        {
+            "french": "chanter",
+            "english": "to sing"
+        },
+        {
+            "french": "chercher",
+            "english": "to search/to look for/to seek"
+        },
+        {
+            "french": "choisir",
+            "english": "to choose/to select"
+        },
+        {
+            "french": "commencer",
+            "english": "to begin/to start"
+        },
+        {
+            "french": "comprendre",
+            "english": "to understand/to include"
+        },
+        {
+            "french": "compter",
+            "english": "to count"
+        },
+        {
+            "french": "conduire",
+            "english": "to drive"
+        },
+        {
+            "french": "connaître",
+            "english": "to know/to get to know"
+        },
+        {
+            "french": "continuer",
+            "english": "to continue"
+        },
+        {
+            "french": "couper",
+            "english": "to cut"
+        },
+        {
+            "french": "courir",
+            "english": "to run"
+        },
+        {
+            "french": "croire",
+            "english": "to believe/to believe in"
+        },
+        {
+            "french": "décider",
+            "english": "to decide"
+        },
+        {
+            "french": "demander",
+            "english": "to ask for"
+        },
+        {
+            "french": "descendre",
+            "english": "to go down"
+        },
+        {
+            "french": "devenir",
+            "english": "to become/to turn into"
+        },
+        {
+            "french": "devoir",
+            "english": "to must/to have to/to owe"
+        },
+        {
+            "french": "dire",
+            "english": "to say/to tell"
+        },
+        {
+            "french": "donner",
+            "english": "to give"
+        },
+        {
+            "french": "dormir",
+            "english": "to sleep"
+        },
+        {
+            "french": "écouter",
+            "english": "to listen to"
+        },
+        {
+            "french": "écrire",
+            "english": "to write"
+        },
+        {
+            "french": "empêcher",
+            "english": "to prevent/to stop"
+        },
+        {
+            "french": "entendre",
+            "english": "to hear"
+        },
+        {
+            "french": "entrer",
+            "english": "to enter/to go into"
+        },
+        {
+            "french": "envoyer",
+            "english": "to send"
+        },
+        {
+            "french": "essayer",
+            "english": "to try/to attempt"
+        },
+        {
+            "french": "éteindre",
+            "english": "to turn off"
+        },
+        {
+            "french": "être",
+            "english": "to be"
+        },
+        {
+            "french": "exister",
+            "english": "to exist"
+        },
+        {
+            "french": "expliquer",
+            "english": "to explain"
+        },
+        {
+            "french": "faire",
+            "english": "to do/to make"
+        },
+        {
+            "french": "faire la cuisine",
+            "english": "to cook"
+        },
+        {
+            "french": "fermer",
+            "english": "to close"
+        },
+        {
+            "french": "finir/terminer",
+            "english": "to finish/finish"
+        },
+        {
+            "french": "gagner",
+            "english": "to win/to gain/to earn"
+        },
+        {
+            "french": "garder",
+            "english": "to keep"
+        },
+        {
+            "french": "goûter",
+            "english": "to taste"
+        },
+        {
+            "french": "jeter",
+            "english": "to throw"
+        },
+        {
+            "french": "jouer",
+            "english": "to play/to gamble/to act"
+        },
+        {
+            "french": "laisser",
+            "english": "to leave/to let/to allow"
+        },
+        {
+            "french": "laver/nettoyer",
+            "english": "to clean/to clean up"
+        },
+        {
+            "french": "lire",
+            "english": "to read"
+        },
+        {
+            "french": "manger",
+            "english": "to eat"
+        },
+        {
+            "french": "marcher",
+            "english": "to walk"
+        },
+        {
+            "french": "mettre",
+            "english": "to put/to place"
+        },
+        {
+            "french": "montrer",
+            "english": "to show/to display"
+        },
+        {
+            "french": "oublier",
+            "english": "to forget"
+        },
+        {
+            "french": "ouvrir",
+            "english": "to open/to open up"
+        },
+        {
+            "french": "parler",
+            "english": "to speak/to talk"
+        },
+        {
+            "french": "partir",
+            "english": "to leave/to depart"
+        },
+        {
+            "french": "payer",
+            "english": "to pay"
+        },
+        {
+            "french": "penser",
+            "english": "to think"
+        },
+        {
+            "french": "perdre",
+            "english": "to lose/to waste"
+        },
+        {
+            "french": "permettre",
+            "english": "to allow/to permit/to enable"
+        },
+        {
+            "french": "pleurer",
+            "english": "to cry"
+        },
+        {
+            "french": "porter",
+            "english": "to wear/to carry"
+        },
+        {
+            "french": "poser",
+            "english": "to put down/to lay something down"
+        },
+        {
+            "french": "pouvoir",
+            "english": "to be able/can"
+        },
+        {
+            "french": "prendre",
+            "english": "to take/to catch"
+        },
+        {
+            "french": "préparer",
+            "english": "to prepare something/to make"
+        },
+        {
+            "french": "rappeler",
+            "english": "to call back/to remind"
+        },
+        {
+            "french": "recevoir",
+            "english": "to receive"
+        },
+        {
+            "french": "reconnaître",
+            "english": "to recognize/to acknowledge"
+        },
+        {
+            "french": "refuser",
+            "english": "to refuse"
+        },
+        {
+            "french": "regarder/voir",
+            "english": "to watch/to see"
+        },
+        {
+            "french": "rencontrer",
+            "english": "to meet/to encounter"
+        },
+        {
+            "french": "rendre",
+            "english": "to return something/to give back"
+        },
+        {
+            "french": "rentrer/rentrer à la maison",
+            "english": "to go back/to go back home"
+        },
+        {
+            "french": "répéter",
+            "english": "to repeat"
+        },
+        {
+            "french": "répondre",
+            "english": "to answer/to reply"
+        },
+        {
+            "french": "ressembler",
+            "english": "to look like"
+        },
+        {
+            "french": "rester",
+            "english": "to stay/to remain"
+        },
+        {
+            "french": "retourner",
+            "english": "to return/to come back"
+        },
+        {
+            "french": "retrouver",
+            "english": "to find/to meet up/to regain"
+        },
+        {
+            "french": "réussir",
+            "english": "to succeed"
+        },
+        {
+            "french": "revenir",
+            "english": "to come back/to return"
+        },
+        {
+            "french": "rire",
+            "english": "to laugh"
+        },
+        {
+            "french": "s’asseoir",
+            "english": "to take a seat"
+        },
+        {
+            "french": "s’endormir",
+            "english": "to fall asleep"
+        },
+        {
+            "french": "savoir",
+            "english": "to know"
+        },
+        {
+            "french": "se laver",
+            "english": "to wash oneself"
+        },
+        {
+            "french": "se reposer",
+            "english": "to take a rest"
+        },
+        {
+            "french": "se réveiller",
+            "english": "to awake"
+        },
+        {
+            "french": "se souvenir/se rappeler",
+            "english": "to remember/remember"
+        },
+        {
+            "french": "sortir",
+            "english": "to get out/to leave/to exit/to come out"
+        },
+        {
+            "french": "suivre",
+            "english": "to follow/to pay attention"
+        },
+        {
+            "french": "tenir",
+            "english": "to hold/to keep"
+        },
+        {
+            "french": "tirer",
+            "english": "to pull/to draw/to fire a gun"
+        },
+        {
+            "french": "tomber",
+            "english": "to fall"
+        },
+        {
+            "french": "toucher",
+            "english": "to touch/to feel"
+        },
+        {
+            "french": "tourner",
+            "english": "to turn"
+        },
+        {
+            "french": "travailler",
+            "english": "to work"
+        },
+        {
+            "french": "trouver",
+            "english": "to find/to discover"
+        },
+        {
+            "french": "utiliser",
+            "english": "to use/to employ"
+        },
+        {
+            "french": "vendre",
+            "english": "to sell"
+        },
+        {
+            "french": "venir",
+            "english": "to come"
+        },
+        {
+            "french": "vivre",
+            "english": "to live"
+        },
+        {
+            "french": "voir",
+            "english": "to see"
+        },
+        {
+            "french": "voler",
+            "english": "to fly"
+        },
+        {
+            "french": "vouloir",
+            "english": "to want/to wish"
+        }
+    ]
+}

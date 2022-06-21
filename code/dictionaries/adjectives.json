@@ -1,0 +1,1364 @@
+{
+    "words": [
+        {
+            "french": "accueillant",
+            "english": "welcoming"
+        },
+        {
+            "french": "admirable",
+            "english": "admirable"
+        },
+        {
+            "french": "agacé",
+            "english": "annoyed"
+        },
+        {
+            "french": "âgé/âgée",
+            "english": "elderly"
+        },
+        {
+            "french": "agréable",
+            "english": "pleasant"
+        },
+        {
+            "french": "aimable",
+            "english": "kind"
+        },
+        {
+            "french": "amer",
+            "english": "bitter"
+        },
+        {
+            "french": "amical",
+            "english": "friendly"
+        },
+        {
+            "french": "amusant",
+            "english": "fun"
+        },
+        {
+            "french": "ancien",
+            "english": "former"
+        },
+        {
+            "french": "approximatif",
+            "english": "approximate"
+        },
+        {
+            "french": "attentif",
+            "english": "attentive"
+        },
+        {
+            "french": "automatique",
+            "english": "automatic"
+        },
+        {
+            "french": "banal",
+            "english": "banal"
+        },
+        {
+            "french": "bas",
+            "english": "bottom"
+        },
+        {
+            "french": "beau/bel/belle",
+            "english": "beautiful"
+        },
+        {
+            "french": "beaucoup",
+            "english": "a lot"
+        },
+        {
+            "french": "bête",
+            "english": "dumb"
+        },
+        {
+            "french": "bien",
+            "english": "property"
+        },
+        {
+            "french": "bizarre/étrange",
+            "english": "weird/strange"
+        },
+        {
+            "french": "blessé",
+            "english": "wounded"
+        },
+        {
+            "french": "bon",
+            "english": "good"
+        },
+        {
+            "french": "bon marché",
+            "english": "inexpensive"
+        },
+        {
+            "french": "bonne santé",
+            "english": "soundness"
+        },
+        {
+            "french": "bouché",
+            "english": "corked"
+        },
+        {
+            "french": "bronzé",
+            "english": "tanned"
+        },
+        {
+            "french": "brusque",
+            "english": "abrupt"
+        },
+        {
+            "french": "bruyant",
+            "english": "noisy"
+        },
+        {
+            "french": "calme",
+            "english": "calm"
+        },
+        {
+            "french": "capable",
+            "english": "capable"
+        },
+        {
+            "french": "captivant",
+            "english": "captivating"
+        },
+        {
+            "french": "caractériel",
+            "english": "character"
+        },
+        {
+            "french": "carré",
+            "english": "square"
+        },
+        {
+            "french": "cassé",
+            "english": "broken"
+        },
+        {
+            "french": "catastrophique",
+            "english": "catastrophic"
+        },
+        {
+            "french": "célèbre",
+            "english": "famous"
+        },
+        {
+            "french": "chaleureux/amical",
+            "english": "warm/friendly"
+        },
+        {
+            "french": "chanceux",
+            "english": "lucky"
+        },
+        {
+            "french": "charmant",
+            "english": "charming"
+        },
+        {
+            "french": "chaud",
+            "english": "hot"
+        },
+        {
+            "french": "cher",
+            "english": "dear"
+        },
+        {
+            "french": "clair",
+            "english": "clear"
+        },
+        {
+            "french": "classique",
+            "english": "classic"
+        },
+        {
+            "french": "collant",
+            "english": "sticky"
+        },
+        {
+            "french": "coloré",
+            "english": "colored/colorful"
+        },
+        {
+            "french": "comestible",
+            "english": "edible"
+        },
+        {
+            "french": "commercial",
+            "english": "commercial"
+        },
+        {
+            "french": "commun",
+            "english": "common"
+        },
+        {
+            "french": "compact",
+            "english": "compact"
+        },
+        {
+            "french": "compatissant",
+            "english": "compassionate"
+        },
+        {
+            "french": "complet",
+            "english": "complete"
+        },
+        {
+            "french": "complexe",
+            "english": "complex"
+        },
+        {
+            "french": "confiant",
+            "english": "trusting"
+        },
+        {
+            "french": "confortable/agréable",
+            "english": "comfortable/pleasant"
+        },
+        {
+            "french": "content",
+            "english": "content"
+        },
+        {
+            "french": "convaincant",
+            "english": "convincing"
+        },
+        {
+            "french": "convenable",
+            "english": "decent"
+        },
+        {
+            "french": "convivial",
+            "english": "user-friendly"
+        },
+        {
+            "french": "correct/bon",
+            "english": "correct/good"
+        },
+        {
+            "french": "coupable",
+            "english": "guilty"
+        },
+        {
+            "french": "courageux",
+            "english": "brave"
+        },
+        {
+            "french": "court",
+            "english": "short"
+        },
+        {
+            "french": "crédible",
+            "english": "credible"
+        },
+        {
+            "french": "croyant",
+            "english": "believer"
+        },
+        {
+            "french": "culturel",
+            "english": "cultural"
+        },
+        {
+            "french": "curieux",
+            "english": "curious"
+        },
+        {
+            "french": "dangereux",
+            "english": "dangerous"
+        },
+        {
+            "french": "dégoûtant",
+            "english": "disgusting"
+        },
+        {
+            "french": "dégoûté",
+            "english": "disgusted"
+        },
+        {
+            "french": "délectable",
+            "english": "delectable"
+        },
+        {
+            "french": "délicieux",
+            "english": "delicious"
+        },
+        {
+            "french": "démocratique",
+            "english": "democratic"
+        },
+        {
+            "french": "déprimé",
+            "english": "depressed"
+        },
+        {
+            "french": "dernier",
+            "english": "latest"
+        },
+        {
+            "french": "désagréable",
+            "english": "unpleasant"
+        },
+        {
+            "french": "déterminé",
+            "english": "determined"
+        },
+        {
+            "french": "différent",
+            "english": "different"
+        },
+        {
+            "french": "difficile",
+            "english": "difficult"
+        },
+        {
+            "french": "disparu",
+            "english": "missing"
+        },
+        {
+            "french": "divers",
+            "english": "miscellaneous"
+        },
+        {
+            "french": "doué",
+            "english": "gifted"
+        },
+        {
+            "french": "doux",
+            "english": "sweet"
+        },
+        {
+            "french": "drôle",
+            "english": "funny"
+        },
+        {
+            "french": "dur",
+            "english": "hard"
+        },
+        {
+            "french": "dynamique",
+            "english": "dynamic"
+        },
+        {
+            "french": "éblouissant",
+            "english": "dazzling"
+        },
+        {
+            "french": "écologique",
+            "english": "ecological"
+        },
+        {
+            "french": "économique",
+            "english": "economic"
+        },
+        {
+            "french": "efficace",
+            "english": "effective"
+        },
+        {
+            "french": "effrayant",
+            "english": "creepy"
+        },
+        {
+            "french": "égoïste",
+            "english": "selfish"
+        },
+        {
+            "french": "électrique",
+            "english": "electrical"
+        },
+        {
+            "french": "électronique",
+            "english": "electronics"
+        },
+        {
+            "french": "élégant",
+            "english": "elegant"
+        },
+        {
+            "french": "éloigné",
+            "english": "remote"
+        },
+        {
+            "french": "émouvant",
+            "english": "moving"
+        },
+        {
+            "french": "encombrant",
+            "english": "cumbersome"
+        },
+        {
+            "french": "énergique",
+            "english": "energetic"
+        },
+        {
+            "french": "énervé",
+            "english": "angry"
+        },
+        {
+            "french": "ennuyant",
+            "english": "boring"
+        },
+        {
+            "french": "ennuyé",
+            "english": "bored"
+        },
+        {
+            "french": "énorme",
+            "english": "huge"
+        },
+        {
+            "french": "ensemble",
+            "english": "together"
+        },
+        {
+            "french": "enthousiaste",
+            "english": "enthusiastic"
+        },
+        {
+            "french": "entier",
+            "english": "integer"
+        },
+        {
+            "french": "épais",
+            "english": "thick"
+        },
+        {
+            "french": "épicé",
+            "english": "spicy"
+        },
+        {
+            "french": "épouvantable",
+            "english": "dreadful"
+        },
+        {
+            "french": "équivalent",
+            "english": "equivalent"
+        },
+        {
+            "french": "étonné",
+            "english": "astonished"
+        },
+        {
+            "french": "étrange/bizarre",
+            "english": "weird/strange"
+        },
+        {
+            "french": "étroit",
+            "english": "narrow"
+        },
+        {
+            "french": "évident",
+            "english": "obvious"
+        },
+        {
+            "french": "exact",
+            "english": "exact"
+        },
+        {
+            "french": "exaltant",
+            "english": "exhilarating"
+        },
+        {
+            "french": "exaspéré",
+            "english": "exasperated"
+        },
+        {
+            "french": "excellent",
+            "english": "excellent"
+        },
+        {
+            "french": "exceptionnel",
+            "english": "exceptional"
+        },
+        {
+            "french": "excité",
+            "english": "excited"
+        },
+        {
+            "french": "excusable",
+            "english": "excusable"
+        },
+        {
+            "french": "exemplaire",
+            "english": "copy"
+        },
+        {
+            "french": "extra moelleux",
+            "english": "extra soft"
+        },
+        {
+            "french": "facile",
+            "english": "easy"
+        },
+        {
+            "french": "faible",
+            "english": "low"
+        },
+        {
+            "french": "fatigant",
+            "english": "tiresome"
+        },
+        {
+            "french": "fatigué",
+            "english": "tired"
+        },
+        {
+            "french": "faux",
+            "english": "fake"
+        },
+        {
+            "french": "fermé",
+            "english": "closed"
+        },
+        {
+            "french": "fiable",
+            "english": "reliable"
+        },
+        {
+            "french": "formidable",
+            "english": "great"
+        },
+        {
+            "french": "fort",
+            "english": "strong"
+        },
+        {
+            "french": "fou/fol/folle",
+            "english": "crazy"
+        },
+        {
+            "french": "fragile",
+            "english": "fragile"
+        },
+        {
+            "french": "frais/coûts",
+            "english": "fees/costs"
+        },
+        {
+            "french": "fréquent",
+            "english": "frequent"
+        },
+        {
+            "french": "froid",
+            "english": "cold"
+        },
+        {
+            "french": "furieux",
+            "english": "furious"
+        },
+        {
+            "french": "généreux",
+            "english": "generous"
+        },
+        {
+            "french": "gentil",
+            "english": "nice"
+        },
+        {
+            "french": "gigantesque",
+            "english": "gigantic"
+        },
+        {
+            "french": "grand",
+            "english": "great/tall"
+        },
+        {
+            "french": "gros/grosse",
+            "english": "big"
+        },
+        {
+            "french": "haut",
+            "english": "top"
+        },
+        {
+            "french": "heureux",
+            "english": "happy"
+        },
+        {
+            "french": "historique",
+            "english": "history"
+        },
+        {
+            "french": "honnête",
+            "english": "honest"
+        },
+        {
+            "french": "horrible",
+            "english": "horrible"
+        },
+        {
+            "french": "humide/mouillé",
+            "english": "wet"
+        },
+        {
+            "french": "idéal",
+            "english": "ideal"
+        },
+        {
+            "french": "identique",
+            "english": "identical"
+        },
+        {
+            "french": "idiot",
+            "english": "idiot"
+        },
+        {
+            "french": "illégal",
+            "english": "illegal"
+        },
+        {
+            "french": "illimité",
+            "english": "unlimited"
+        },
+        {
+            "french": "immédiat",
+            "english": "immediate"
+        },
+        {
+            "french": "immense",
+            "english": "huge"
+        },
+        {
+            "french": "immobile",
+            "english": "stationary"
+        },
+        {
+            "french": "impliqué",
+            "english": "involved"
+        },
+        {
+            "french": "important",
+            "english": "important"
+        },
+        {
+            "french": "impossible",
+            "english": "impossible"
+        },
+        {
+            "french": "impressionnant",
+            "english": "impressive"
+        },
+        {
+            "french": "imprévisible",
+            "english": "unpredictable"
+        },
+        {
+            "french": "incapable",
+            "english": "incapable"
+        },
+        {
+            "french": "inconnu",
+            "english": "unknown"
+        },
+        {
+            "french": "incroyable",
+            "english": "amazing"
+        },
+        {
+            "french": "indépendant",
+            "english": "independent"
+        },
+        {
+            "french": "injuste",
+            "english": "unjust/unfair"
+        },
+        {
+            "french": "innocent",
+            "english": "innocent"
+        },
+        {
+            "french": "inquiet",
+            "english": "worried"
+        },
+        {
+            "french": "insignifiant",
+            "english": "insignificant"
+        },
+        {
+            "french": "insuffisant",
+            "english": "insufficient"
+        },
+        {
+            "french": "insupportable",
+            "english": "unbearable"
+        },
+        {
+            "french": "intelligent",
+            "english": "intelligent"
+        },
+        {
+            "french": "intenable",
+            "english": "untenable"
+        },
+        {
+            "french": "interdit",
+            "english": "prohibited"
+        },
+        {
+            "french": "intéressant",
+            "english": "interesting"
+        },
+        {
+            "french": "international",
+            "english": "international"
+        },
+        {
+            "french": "inventif/inventive",
+            "english": "inventive"
+        },
+        {
+            "french": "irrésistible",
+            "english": "irresistible"
+        },
+        {
+            "french": "jaloux",
+            "english": "jealous"
+        },
+        {
+            "french": "jeune",
+            "english": "young"
+        },
+        {
+            "french": "joueur",
+            "english": "player"
+        },
+        {
+            "french": "lâche",
+            "english": "coward"
+        },
+        {
+            "french": "large",
+            "english": "broad"
+        },
+        {
+            "french": "légal",
+            "english": "legal"
+        },
+        {
+            "french": "léger",
+            "english": "light"
+        },
+        {
+            "french": "lent",
+            "english": "slow"
+        },
+        {
+            "french": "local",
+            "english": "local"
+        },
+        {
+            "french": "loin",
+            "english": "far"
+        },
+        {
+            "french": "long",
+            "english": "long"
+        },
+        {
+            "french": "louable",
+            "english": "commendable"
+        },
+        {
+            "french": "lourd",
+            "english": "heavy"
+        },
+        {
+            "french": "magnifique",
+            "english": "beautiful"
+        },
+        {
+            "french": "malade",
+            "english": "sick"
+        },
+        {
+            "french": "maladroit",
+            "english": "awkward"
+        },
+        {
+            "french": "malheureux",
+            "english": "unfortunate"
+        },
+        {
+            "french": "mauvais",
+            "english": "bad"
+        },
+        {
+            "french": "méchant",
+            "english": "bad guy"
+        },
+        {
+            "french": "méfiant",
+            "english": "wary"
+        },
+        {
+            "french": "merveilleux",
+            "english": "wonderful"
+        },
+        {
+            "french": "mignon/mignonne",
+            "english": "cute"
+        },
+        {
+            "french": "minable",
+            "english": "crummy"
+        },
+        {
+            "french": "mince",
+            "english": "thin"
+        },
+        {
+            "french": "minuscule/infime",
+            "english": "tiny"
+        },
+        {
+            "french": "moderne",
+            "english": "modern"
+        },
+        {
+            "french": "moelleux",
+            "english": "soft/mellow"
+        },
+        {
+            "french": "mondial",
+            "english": "worldwide"
+        },
+        {
+            "french": "mort",
+            "english": "dead"
+        },
+        {
+            "french": "mortel",
+            "english": "lethal"
+        },
+        {
+            "french": "motivé",
+            "english": "motivated"
+        },
+        {
+            "french": "mouillé",
+            "english": "wet"
+        },
+        {
+            "french": "moyen/moyenne",
+            "english": "average"
+        },
+        {
+            "french": "muet",
+            "english": "mute"
+        },
+        {
+            "french": "mûr/mature",
+            "english": "ripe/mature"
+        },
+        {
+            "french": "mystérieux",
+            "english": "mysterious"
+        },
+        {
+            "french": "naturel",
+            "english": "natural"
+        },
+        {
+            "french": "nécessaire",
+            "english": "necessary"
+        },
+        {
+            "french": "négligeable",
+            "english": "negligible"
+        },
+        {
+            "french": "nerveux",
+            "english": "nervous"
+        },
+        {
+            "french": "nombreux",
+            "english": "numerous"
+        },
+        {
+            "french": "nostalgique",
+            "english": "nostalgic"
+        },
+        {
+            "french": "nouveau",
+            "english": "new"
+        },
+        {
+            "french": "nul",
+            "english": "void"
+        },
+        {
+            "french": "occupé",
+            "english": "occupied"
+        },
+        {
+            "french": "officiel",
+            "english": "official"
+        },
+        {
+            "french": "optimiste",
+            "english": "optimist"
+        },
+        {
+            "french": "ordinaire",
+            "english": "ordinary"
+        },
+        {
+            "french": "original",
+            "english": "original"
+        },
+        {
+            "french": "ouvert",
+            "english": "open"
+        },
+        {
+            "french": "paresseux",
+            "english": "lazy"
+        },
+        {
+            "french": "parfait",
+            "english": "perfect"
+        },
+        {
+            "french": "passable",
+            "english": "passable"
+        },
+        {
+            "french": "passionnant",
+            "english": "exciting"
+        },
+        {
+            "french": "passionné",
+            "english": "passionate"
+        },
+        {
+            "french": "patient",
+            "english": "patient"
+        },
+        {
+            "french": "pauvre",
+            "english": "poor"
+        },
+        {
+            "french": "pénible",
+            "english": "tedious"
+        },
+        {
+            "french": "persévérant",
+            "english": "persevering"
+        },
+        {
+            "french": "pertinent",
+            "english": "relevant"
+        },
+        {
+            "french": "pessimiste",
+            "english": "pessimist"
+        },
+        {
+            "french": "petit",
+            "english": "little"
+        },
+        {
+            "french": "peu",
+            "english": "little/few"
+        },
+        {
+            "french": "peureux/peureuse",
+            "english": "fearful"
+        },
+        {
+            "french": "phénoménal",
+            "english": "phenomenal"
+        },
+        {
+            "french": "pire",
+            "english": "worst"
+        },
+        {
+            "french": "plaisant",
+            "english": "nice"
+        },
+        {
+            "french": "plein",
+            "english": "full"
+        },
+        {
+            "french": "politique",
+            "english": "policy"
+        },
+        {
+            "french": "pollué",
+            "english": "polluted"
+        },
+        {
+            "french": "ponctuel/à l’heure",
+            "english": "punctual/on time"
+        },
+        {
+            "french": "populaire",
+            "english": "popular"
+        },
+        {
+            "french": "positif",
+            "english": "positive"
+        },
+        {
+            "french": "possible",
+            "english": "possible"
+        },
+        {
+            "french": "pourri",
+            "english": "rotten"
+        },
+        {
+            "french": "pratique",
+            "english": "practice"
+        },
+        {
+            "french": "précieux",
+            "english": "valuable"
+        },
+        {
+            "french": "précis",
+            "english": "precise"
+        },
+        {
+            "french": "premier",
+            "english": "first"
+        },
+        {
+            "french": "près",
+            "english": "near/nearby"
+        },
+        {
+            "french": "prétentieux/prétentieuse",
+            "english": "pretentious"
+        },
+        {
+            "french": "privé",
+            "english": "private"
+        },
+        {
+            "french": "prochain",
+            "english": "next"
+        },
+        {
+            "french": "proche",
+            "english": "close"
+        },
+        {
+            "french": "prodigieux",
+            "english": "prodigious"
+        },
+        {
+            "french": "profond",
+            "english": "deep"
+        },
+        {
+            "french": "propre",
+            "english": "own/proper/clean"
+        },
+        {
+            "french": "prudent",
+            "english": "cautious"
+        },
+        {
+            "french": "public",
+            "english": "public"
+        },
+        {
+            "french": "puissant",
+            "english": "powerful"
+        },
+        {
+            "french": "rapide",
+            "english": "quick"
+        },
+        {
+            "french": "rare",
+            "english": "rare"
+        },
+        {
+            "french": "ravi",
+            "english": "delighted"
+        },
+        {
+            "french": "réaliste",
+            "english": "realistic"
+        },
+        {
+            "french": "récent",
+            "english": "recent"
+        },
+        {
+            "french": "recyclé",
+            "english": "recycled"
+        },
+        {
+            "french": "religieux",
+            "english": "religious"
+        },
+        {
+            "french": "remarquable",
+            "english": "remarkable"
+        },
+        {
+            "french": "rempli",
+            "english": "filled"
+        },
+        {
+            "french": "responsable",
+            "english": "responsible"
+        },
+        {
+            "french": "riche",
+            "english": "rich"
+        },
+        {
+            "french": "romantique",
+            "english": "romantic"
+        },
+        {
+            "french": "sale",
+            "english": "dirty"
+        },
+        {
+            "french": "salé",
+            "english": "salty"
+        },
+        {
+            "french": "satisfaisant",
+            "english": "satisfactory"
+        },
+        {
+            "french": "satisfait",
+            "english": "satisfied"
+        },
+        {
+            "french": "sauvage",
+            "english": "wild"
+        },
+        {
+            "french": "sec",
+            "english": "dry"
+        },
+        {
+            "french": "secret",
+            "english": "secret"
+        },
+        {
+            "french": "séduisant/attractif",
+            "english": "attractive"
+        },
+        {
+            "french": "sérieux/sérieuse",
+            "english": "serious"
+        },
+        {
+            "french": "silencieux",
+            "english": "quiet"
+        },
+        {
+            "french": "similaire",
+            "english": "similar"
+        },
+        {
+            "french": "simple",
+            "english": "simple"
+        },
+        {
+            "french": "sincère",
+            "english": "sincere"
+        },
+        {
+            "french": "sociable",
+            "english": "sociable"
+        },
+        {
+            "french": "solide",
+            "english": "solid"
+        },
+        {
+            "french": "solitaire",
+            "english": "lonely"
+        },
+        {
+            "french": "sombre",
+            "english": "dark"
+        },
+        {
+            "french": "souriant",
+            "english": "smiling"
+        },
+        {
+            "french": "spacieux",
+            "english": "spacious"
+        },
+        {
+            "french": "spécial",
+            "english": "special"
+        },
+        {
+            "french": "spécifique",
+            "english": "specific"
+        },
+        {
+            "french": "splendide",
+            "english": "splendid"
+        },
+        {
+            "french": "sportif/sportive",
+            "english": "sporting/sporty"
+        },
+        {
+            "french": "stupide",
+            "english": "stupid"
+        },
+        {
+            "french": "super",
+            "english": "super"
+        },
+        {
+            "french": "superbe/magnifique",
+            "english": "superb/magnificent"
+        },
+        {
+            "french": "superficiel",
+            "english": "superficial"
+        },
+        {
+            "french": "superstitieux",
+            "english": "superstitious"
+        },
+        {
+            "french": "supplémentaire",
+            "english": "additional"
+        },
+        {
+            "french": "supportable",
+            "english": "supportable"
+        },
+        {
+            "french": "surpeuplé",
+            "english": "overcrowded"
+        },
+        {
+            "french": "surpris",
+            "english": "surprised"
+        },
+        {
+            "french": "sympathique",
+            "english": "nice"
+        },
+        {
+            "french": "talentueux",
+            "english": "talented"
+        },
+        {
+            "french": "temporaire",
+            "english": "temporary"
+        },
+        {
+            "french": "terrible",
+            "english": "terrible"
+        },
+        {
+            "french": "têtu",
+            "english": "stubborn"
+        },
+        {
+            "french": "timide",
+            "english": "shy"
+        },
+        {
+            "french": "tolérable",
+            "english": "tolerable"
+        },
+        {
+            "french": "tolérant",
+            "english": "tolerant"
+        },
+        {
+            "french": "total",
+            "english": "total"
+        },
+        {
+            "french": "toxique",
+            "english": "toxic"
+        },
+        {
+            "french": "traditionnel",
+            "english": "traditional"
+        },
+        {
+            "french": "travailleur",
+            "english": "worker"
+        },
+        {
+            "french": "triangulaire",
+            "english": "triangular"
+        },
+        {
+            "french": "triste",
+            "english": "sad"
+        },
+        {
+            "french": "troublant",
+            "english": "troubling"
+        },
+        {
+            "french": "typique",
+            "english": "typical"
+        },
+        {
+            "french": "unique",
+            "english": "unique"
+        },
+        {
+            "french": "usé",
+            "english": "used"
+        },
+        {
+            "french": "vantard",
+            "english": "bragger"
+        },
+        {
+            "french": "vaste",
+            "english": "extensive"
+        },
+        {
+            "french": "vide",
+            "english": "void"
+        },
+        {
+            "french": "vieux/ancien",
+            "english": "old"
+        },
+        {
+            "french": "visqueux",
+            "english": "viscous"
+        },
+        {
+            "french": "vivant",
+            "english": "living"
+        },
+        {
+            "french": "volumineux",
+            "english": "extensive"
+        },
+        {
+            "french": "réel",
+            "english": "real"
+        },
+        {
+            "french": "vulgaire",
+            "english": "vulgar"
+        },
+        {
+            "french": "vulnérable",
+            "english": "vulnerable"
+        }
+    ]
+}

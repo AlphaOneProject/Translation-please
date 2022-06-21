@@ -1,0 +1,504 @@
+{
+    "words": [
+        {
+            "english": "to accompany",
+            "french": "accompagner"
+        },
+        {
+            "english": "to accelerate",
+            "french": "accélérer"
+        },
+        {
+            "english": "to advance",
+            "french": "avancer"
+        },
+        {
+            "english": "to applaud",
+            "french": "applaudir"
+        },
+        {
+            "english": "to approach",
+            "french": "s’approcher"
+        },
+        {
+            "english": "to arrive",
+            "french": "arriver"
+        },
+        {
+            "english": "to back off",
+            "french": "reculer"
+        },
+        {
+            "english": "to bend",
+            "french": "plier"
+        },
+        {
+            "english": "to bite",
+            "french": "mordre"
+        },
+        {
+            "english": "to blink",
+            "french": "cligner des yeux"
+        },
+        {
+            "english": "to blow",
+            "french": "souffler"
+        },
+        {
+            "english": "to break",
+            "french": "casser/briser"
+        },
+        {
+            "english": "to breathe",
+            "french": "respirer"
+        },
+        {
+            "english": "to bring",
+            "french": "amener/apporter quelque chose"
+        },
+        {
+            "english": "to bring back",
+            "french": "ramener/rapporter"
+        },
+        {
+            "english": "to build",
+            "french": "construire"
+        },
+        {
+            "english": "to carry",
+            "french": "porter/emporter"
+        },
+        {
+            "english": "to catch",
+            "french": "attraper"
+        },
+        {
+            "english": "to chew",
+            "french": "mâcher"
+        },
+        {
+            "english": "to choose",
+            "french": "choisir"
+        },
+        {
+            "english": "to climb",
+            "french": "escalader/grimper"
+        },
+        {
+            "english": "to close",
+            "french": "fermer"
+        },
+        {
+            "english": "to come",
+            "french": "venir"
+        },
+        {
+            "english": "to cook",
+            "french": "cuisiner"
+        },
+        {
+            "english": "to count",
+            "french": "compter"
+        },
+        {
+            "english": "to crawl",
+            "french": "ramper"
+        },
+        {
+            "english": "to crouch",
+            "french": "s’accroupir"
+        },
+        {
+            "english": "to cry",
+            "french": "pleurer"
+        },
+        {
+            "english": "to dance",
+            "french": "danser"
+        },
+        {
+            "english": "to dive",
+            "french": "plonger"
+        },
+        {
+            "english": "to dodge",
+            "french": "esquiver"
+        },
+        {
+            "english": "to drag",
+            "french": "traîner"
+        },
+        {
+            "english": "to dream",
+            "french": "rêver"
+        },
+        {
+            "english": "to drink",
+            "french": "boire"
+        },
+        {
+            "english": "to drive",
+            "french": "conduire"
+        },
+        {
+            "english": "to eat",
+            "french": "manger"
+        },
+        {
+            "english": "to enter",
+            "french": "entrer"
+        },
+        {
+            "english": "to escape",
+            "french": "échapper"
+        },
+        {
+            "english": "to evade",
+            "french": "s’évader"
+        },
+        {
+            "english": "to exit",
+            "french": "pour quitter"
+        },
+        {
+            "english": "to fall",
+            "french": "tomber"
+        },
+        {
+            "english": "to fix/to fix something",
+            "french": "réparer/réparer quelque chose"
+        },
+        {
+            "english": "to float",
+            "french": "flotter"
+        },
+        {
+            "english": "to follow/to follow someone",
+            "french": "suivre/suivre quelqu’un"
+        },
+        {
+            "english": "to get fat",
+            "french": "grossir/devenir gros"
+        },
+        {
+            "english": "to get over something",
+            "french": "franchir/franchir quelque chose"
+        },
+        {
+            "english": "to give",
+            "french": "donner"
+        },
+        {
+            "english": "to go",
+            "french": "aller"
+        },
+        {
+            "english": "to go down",
+            "french": "descendre"
+        },
+        {
+            "english": "to go out",
+            "french": "sortir"
+        },
+        {
+            "english": "to hit",
+            "french": "frapper"
+        },
+        {
+            "english": "to hug",
+            "french": "embrasser/faire un câlin/prendre dans ses bras"
+        },
+        {
+            "english": "to jump",
+            "french": "sauter"
+        },
+        {
+            "english": "to kick",
+            "french": "donner un coup de pied"
+        },
+        {
+            "english": "to kiss",
+            "french": "embrasser"
+        },
+        {
+            "english": "to kneel",
+            "french": "se mettre à genoux/s'agenouiller"
+        },
+        {
+            "english": "to laugh",
+            "french": "rire"
+        },
+        {
+            "english": "to leap",
+            "french": "bondir/sauter"
+        },
+        {
+            "english": "to leave",
+            "french": "partir/quitter"
+        },
+        {
+            "english": "to lick",
+            "french": "lécher"
+        },
+        {
+            "english": "to lie down",
+            "french": "s'allonger/se coucher"
+        },
+        {
+            "english": "to lift up",
+            "french": "soulever"
+        },
+        {
+            "english": "to listen",
+            "french": "écouter"
+        },
+        {
+            "english": "to look for",
+            "french": "chercher/rechercher"
+        },
+        {
+            "english": "to lose weight",
+            "french": "perdre du poids"
+        },
+        {
+            "english": "to move",
+            "french": "bouger/se déplacer"
+        },
+        {
+            "english": "to move away",
+            "french": "s'éloigner"
+        },
+        {
+            "english": "to move back",
+            "french": "reculer/revenir en arrière"
+        },
+        {
+            "english": "to move something",
+            "french": "déplacer/déplacer quelque chose"
+        },
+        {
+            "english": "to open",
+            "french": "ouvrir"
+        },
+        {
+            "english": "to park",
+            "french": "se garer"
+        },
+        {
+            "english": "to pass",
+            "french": "passer"
+        },
+        {
+            "english": "to pick up",
+            "french": "ramasser"
+        },
+        {
+            "english": "to point",
+            "french": "pointer"
+        },
+        {
+            "english": "to pour",
+            "french": "verser"
+        },
+        {
+            "english": "to pull",
+            "french": "tirer"
+        },
+        {
+            "english": "to punch",
+            "french": "frapper"
+        },
+        {
+            "english": "to pursue",
+            "french": "poursuivre"
+        },
+        {
+            "english": "to push",
+            "french": "pousser"
+        },
+        {
+            "english": "to raise",
+            "french": "augmenter/récolter"
+        },
+        {
+            "english": "to reach",
+            "french": "atteindre/rejoindre"
+        },
+        {
+            "english": "to read",
+            "french": "lire"
+        },
+        {
+            "english": "to repeat",
+            "french": "répéter"
+        },
+        {
+            "english": "to return",
+            "french": "retourner/revenir"
+        },
+        {
+            "english": "to roll",
+            "french": "rouler"
+        },
+        {
+            "english": "to run",
+            "french": "courir"
+        },
+        {
+            "english": "to scream",
+            "french": "hurler/crier"
+        },
+        {
+            "english": "to see",
+            "french": "voir"
+        },
+        {
+            "english": "to separate",
+            "french": "écarter"
+        },
+        {
+            "english": "to shake",
+            "french": "secouer"
+        },
+        {
+            "english": "to shower",
+            "french": "se doucher/prendre une douche"
+        },
+        {
+            "english": "to shrug",
+            "french": "hausser les épaules"
+        },
+        {
+            "english": "to sing",
+            "french": "chanter"
+        },
+        {
+            "english": "to sit",
+            "french": "asseoir/s'asseoir"
+        },
+        {
+            "english": "to sit down",
+            "french": "s’asseoir"
+        },
+        {
+            "english": "to sleep",
+            "french": "dormir"
+        },
+        {
+            "english": "to slide",
+            "french": "glisser"
+        },
+        {
+            "english": "to smell",
+            "french": "sentir"
+        },
+        {
+            "english": "to sniff",
+            "french": "renifler"
+        },
+        {
+            "english": "to spread out",
+            "french": "étendre/s'étendre/étaler/s’étaler"
+        },
+        {
+            "english": "to squat",
+            "french": "s’accroupir"
+        },
+        {
+            "english": "to stand up",
+            "french": "se lever"
+        },
+        {
+            "english": "to steal",
+            "french": "voler"
+        },
+        {
+            "english": "to stop",
+            "french": "arrêter"
+        },
+        {
+            "english": "to swallow",
+            "french": "avaler"
+        },
+        {
+            "english": "to sweat",
+            "french": "suer/transpirer"
+        },
+        {
+            "english": "to swim",
+            "french": "nager"
+        },
+        {
+            "english": "to take",
+            "french": "emmener/prendre/emporter"
+        },
+        {
+            "english": "to talk/to speak",
+            "french": "parler"
+        },
+        {
+            "english": "to teach",
+            "french": "enseigner"
+        },
+        {
+            "english": "to think",
+            "french": "penser"
+        },
+        {
+            "english": "to throw",
+            "french": "jeter/lancer"
+        },
+        {
+            "english": "to touch",
+            "french": "toucher"
+        },
+        {
+            "english": "to turn",
+            "french": "tourner"
+        },
+        {
+            "english": "to turn around",
+            "french": "se retourner"
+        },
+        {
+            "english": "to visit",
+            "french": "visiter"
+        },
+        {
+            "english": "to walk",
+            "french": "marcher"
+        },
+        {
+            "english": "to watch",
+            "french": "regarder"
+        },
+        {
+            "english": "to whisper",
+            "french": "chuchoter"
+        },
+        {
+            "english": "to whistle",
+            "french": "siffler"
+        },
+        {
+            "english": "to wink",
+            "french": "faire un clin d’oeil/cligner de l’oeil"
+        },
+        {
+            "english": "to work",
+            "french": "travailler"
+        },
+        {
+            "english": "to write",
+            "french": "écrire"
+        },
+        {
+            "english": "to yawn",
+            "french": "bailler"
+        },
+        {
+            "english": "to yell",
+            "french": "crier"
+        }
+    ]
+}

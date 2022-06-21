@@ -1,0 +1,436 @@
+{
+    "words": [
+        {
+            "english": "a lot",
+            "french": "beaucoup"
+        },
+        {
+            "english": "abnormally",
+            "french": "anormalement"
+        },
+        {
+            "english": "about",
+            "french": "environ"
+        },
+        {
+            "english": "absolutely",
+            "french": "absolument"
+        },
+        {
+            "english": "accidentally",
+            "french": "accidentellement"
+        },
+        {
+            "english": "after/afterwards",
+            "french": "après"
+        },
+        {
+            "english": "again",
+            "french": "encore"
+        },
+        {
+            "english": "almost/nearly",
+            "french": "presque"
+        },
+        {
+            "english": "always",
+            "french": "toujours"
+        },
+        {
+            "english": "anytime/whenever",
+            "french": "n’importe quand "
+        },
+        {
+            "english": "anywhere",
+            "french": "n’importe où"
+        },
+        {
+            "english": "apparently/seemingly",
+            "french": "apparemment"
+        },
+        {
+            "english": "approximately",
+            "french": "approximativement"
+        },
+        {
+            "english": "automatically",
+            "french": "automatiquement"
+        },
+        {
+            "english": "blindly",
+            "french": "aveuglement"
+        },
+        {
+            "english": "briefly",
+            "french": "brièvement"
+        },
+        {
+            "english": "busily",
+            "french": "activement"
+        },
+        {
+            "english": "calmly",
+            "french": "calmement"
+        },
+        {
+            "english": "carefully",
+            "french": "prudemment"
+        },
+        {
+            "english": "certainly",
+            "french": "certainement"
+        },
+        {
+            "english": "clearly",
+            "french": "clairement"
+        },
+        {
+            "english": "closely",
+            "french": "attentivement"
+        },
+        {
+            "english": "comfortably",
+            "french": "confortablement"
+        },
+        {
+            "english": "completely",
+            "french": "complètement"
+        },
+        {
+            "english": "constantly",
+            "french": "constamment/sans cesse"
+        },
+        {
+            "english": "correctly/properly",
+            "french": "correctement"
+        },
+        {
+            "english": "courageously/bravely",
+            "french": "courageusement"
+        },
+        {
+            "english": "curiously",
+            "french": "curieusement"
+        },
+        {
+            "english": "currently",
+            "french": "actuellement"
+        },
+        {
+            "english": "daintily",
+            "french": "délicatement"
+        },
+        {
+            "english": "deliberately",
+            "french": "délibérément"
+        },
+        {
+            "english": "differently/otherwise",
+            "french": "autrement"
+        },
+        {
+            "english": "easily",
+            "french": "facilement"
+        },
+        {
+            "english": "elsewhere",
+            "french": "ailleurs"
+        },
+        {
+            "english": "enough",
+            "french": "assez"
+        },
+        {
+            "english": "eventually",
+            "french": "éventuellement"
+        },
+        {
+            "english": "everywhere/all over",
+            "french": "partout"
+        },
+        {
+            "english": "exactly",
+            "french": "exactement"
+        },
+        {
+            "english": "exceptionally",
+            "french": "exceptionnellement"
+        },
+        {
+            "english": "extremely",
+            "french": "extrêmement"
+        },
+        {
+            "english": "finally",
+            "french": "finalement"
+        },
+        {
+            "english": "firstly",
+            "french": "premièrement"
+        },
+        {
+            "english": "fluently",
+            "french": "couramment"
+        },
+        {
+            "english": "foolishly",
+            "french": "bêtement"
+        },
+        {
+            "english": "for a long time",
+            "french": "longtemps"
+        },
+        {
+            "english": "fortunately",
+            "french": "heureusement"
+        },
+        {
+            "english": "frankly",
+            "french": "franchement"
+        },
+        {
+            "english": "freely",
+            "french": "librement"
+        },
+        {
+            "english": "from now on",
+            "french": "désormais"
+        },
+        {
+            "english": "greatly",
+            "french": "considérablement"
+        },
+        {
+            "english": "heavily/strongly",
+            "french": "fortement"
+        },
+        {
+            "english": "hopelessly/desperately",
+            "french": "désespérément"
+        },
+        {
+            "english": "immediately",
+            "french": "tout de suite"
+        },
+        {
+            "english": "in the old days/in the past",
+            "french": "autrefois"
+        },
+        {
+            "english": "lightly/slightly",
+            "french": "légèrement"
+        },
+        {
+            "english": "loudly/noisily",
+            "french": "bruyamment"
+        },
+        {
+            "english": "more and more",
+            "french": "de plus en plus"
+        },
+        {
+            "english": "mysteriously",
+            "french": "mystérieusement"
+        },
+        {
+            "english": "naturally",
+            "french": "naturellement"
+        },
+        {
+            "english": "neatly",
+            "french": "proprement"
+        },
+        {
+            "english": "never",
+            "french": "jamais"
+        },
+        {
+            "english": "next/then",
+            "french": "ensuite"
+        },
+        {
+            "english": "normally",
+            "french": "normalement"
+        },
+        {
+            "english": "now",
+            "french": "maintenant"
+        },
+        {
+            "english": "nowhere",
+            "french": "nulle part"
+        },
+        {
+            "english": "obviously",
+            "french": "évidemment"
+        },
+        {
+            "english": "oddly",
+            "french": "bizarrement"
+        },
+        {
+            "english": "often",
+            "french": "souvent"
+        },
+        {
+            "english": "on purpose",
+            "french": "exprès"
+        },
+        {
+            "english": "only",
+            "french": "seulement"
+        },
+        {
+            "english": "patiently",
+            "french": "patiemment"
+        },
+        {
+            "english": "perfectly",
+            "french": "parfaitement"
+        },
+        {
+            "english": "perhaps",
+            "french": "peut-être"
+        },
+        {
+            "english": "probably",
+            "french": "probablement"
+        },
+        {
+            "english": "quietly",
+            "french": "tranquillement"
+        },
+        {
+            "english": "randomly",
+            "french": "au hasard"
+        },
+        {
+            "english": "rapidly/swiftly/quickly",
+            "french": "rapidement"
+        },
+        {
+            "english": "rarely/seldom",
+            "french": "rarement"
+        },
+        {
+            "english": "really/truly",
+            "french": "vraiment"
+        },
+        {
+            "english": "recently/lately",
+            "french": "dernièrement"
+        },
+        {
+            "english": "repeatedly",
+            "french": "à plusieurs reprises"
+        },
+        {
+            "english": "scarcely",
+            "french": "à peine"
+        },
+        {
+            "english": "separately",
+            "french": "séparément"
+        },
+        {
+            "english": "seriously",
+            "french": "sérieusement"
+        },
+        {
+            "english": "silently",
+            "french": "silencieusement"
+        },
+        {
+            "english": "simply",
+            "french": "simplement"
+        },
+        {
+            "english": "slowly",
+            "french": "lentement"
+        },
+        {
+            "english": "softly/gently/quietly",
+            "french": "doucement"
+        },
+        {
+            "english": "sometimes",
+            "french": "parfois/quelquefois/de temps à autre/de temps en temps"
+        },
+        {
+            "english": "somewhere",
+            "french": "quelque part"
+        },
+        {
+            "english": "soon",
+            "french": "bientôt"
+        },
+        {
+            "english": "standing",
+            "french": "debout"
+        },
+        {
+            "english": "straight away/immediately/instantly",
+            "french": "immédiatement"
+        },
+        {
+            "english": "strictly",
+            "french": "strictement"
+        },
+        {
+            "english": "suddenly",
+            "french": "soudainement/brusquement"
+        },
+        {
+            "english": "surprisingly",
+            "french": "étonnamment"
+        },
+        {
+            "english": "together",
+            "french": "ensemble"
+        },
+        {
+            "english": "too/also/as well",
+            "french": "aussi"
+        },
+        {
+            "english": "truthfully/honestly",
+            "french": "honnêtement"
+        },
+        {
+            "english": "unfortunately/sadly",
+            "french": "malheureusement"
+        },
+        {
+            "english": "unnecessarily",
+            "french": "inutilement"
+        },
+        {
+            "english": "upside-down",
+            "french": "à l’envers"
+        },
+        {
+            "english": "usually",
+            "french": "d’habitude"
+        },
+        {
+            "english": "very",
+            "french": "très"
+        },
+        {
+            "english": "very much/enormously",
+            "french": "énormément"
+        },
+        {
+            "english": "well",
+            "french": "bien"
+        },
+        {
+            "english": "with difficulty",
+            "french": "difficilement"
+        },
+        {
+            "english": "wrongly",
+            "french": "à tort"
+        }
+    ]
+}
